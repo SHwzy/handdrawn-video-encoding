@@ -1,0 +1,88 @@
+{
+  "replacements": {
+    "F:\\手书\\rebuild_118_147\\h3\\mouth_v1.mp4": {
+      "output": "F:\\手书\\render_1080p\\h3_sr\\rebuild_118_147_mouth_v1_b71a964e\\upscaled.mp4",
+      "spatial_density": 1.5,
+      "source_sha256": "b71a964e66f0382a3b33c40c694be46248a1369c861da1c9402f9c5c78822875",
+      "output_sha256": "98b83b10fe099d8ff07baaa9f1154154165b52aaba96f3a57a6a4e7b8faa78c0"
+    },
+    "F:\\手书\\rebuild_182_202_agent_20261002_a\\h3\\anon_v1.mp4": {
+      "output": "F:\\手书\\render_1080p\\h3_sr\\rebuild_182_202_agent_20261002_a_anon_v1_13c1992e\\upscaled.mp4",
+      "spatial_density": 1.5,
+      "source_sha256": "13c1992e357c64e6827dc8f5418d50083147fad2613e6704f63d6679e90f82f7",
+      "output_sha256": "b643ca37a5aff43b41e19b0727ff5c5bf84f1dc402283d566b9a1ddca1c6a641"
+    },
+    "F:\\手书\\rebuild_182_202_agent_20261002_a\\h3\\prone_v1.mp4": {
+      "output": "F:\\手书\\render_1080p\\h3_sr\\rebuild_182_202_agent_20261002_a_prone_v1_850397d4\\upscaled.mp4",
+      "spatial_density": 1.5,
+      "source_sha256": "850397d451ab5ef2b686295332992c29fd4b247e5a07b029f33dcd8a69d13e6b",
+      "output_sha256": "d98d137b3eb2b2388ceca764c4fcc7d5983ffb0edc02d299066436748941c08b"
+    },
+    "F:\\手书\\rebuild_182_202_agent_20261002_a\\h3\\sakiko_v1.mp4": {
+      "output": "F:\\手书\\render_1080p\\h3_sr\\rebuild_182_202_agent_20261002_a_sakiko_v1_305e82fc\\upscaled.mp4",
+      "spatial_density": 1.5,
+      "source_sha256": "305e82fc71cb0875cff16417ee0775fa7430ed89f8768e33e4869062fb3fd93e",
+      "output_sha256": "4ac2b1e809b2b5a77dc70851602bd0e969c735581b75357878c1b69d651048f5"
+    },
+    "F:\\手书\\rebuild_202_end_agent_20261002_b\\h3\\hands_v2_v1.mp4": {
+      "output": "F:\\手书\\render_1080p\\h3_sr\\rebuild_202_end_agent_20261002_b_hands_v2_v1_fb9f2c94\\upscaled.mp4",
+      "spatial_density": 1.5,
+      "source_sha256": "fb9f2c9476a361e62195bb909eb497bef92e8e13c81a5a3d6c49961b9e2170b1",
+      "output_sha256": "f3edd776cdfd27d6825e01a84c1125b49997bbca7a0c62e8d11b2718854d3b10"
+    },
+    "F:\\手书\\rebuild_202_end_agent_20261002_b\\h3\\lean_v1.mp4": {
+      "output": "F:\\手书\\render_1080p\\h3_sr\\rebuild_202_end_agent_20261002_b_lean_v1_d02e05c0\\upscaled.mp4",
+      "spatial_density": 1.5,
+      "source_sha256": "d02e05c0ae50065ebf4faaa3efb0d3b90d8aa61debac11879270f1c8d1278c98",
+      "output_sha256": "337c2c01f0fb1e1e94d4470ed4f1a84d93046fdedfc36b57759c0a4faa1eae73"
+    },
+    "F:\\手书\\rebuild_202_end_agent_20261002_b\\h3\\pair_v1.mp4": {
+      "output": "F:\\手书\\render_1080p\\h3_sr\\rebuild_202_end_agent_20261002_b_pair_v1_8b3c0e43\\upscaled.mp4",
+      "spatial_density": 1.5,
+      "source_sha256": "8b3c0e4316007e0aeb4ce84564886aceddbd36e907196d4aabb75ea2cfc33913",
+      "output_sha256": "8360bc214e9d752affb96a8297de6f5f8ff96224d79234d61d1bb1ae20bbbdd2"
+    },
+    "F:\\手书\\rebuild_202_end_agent_20261002_b\\h3\\spin_v1.mp4": {
+      "output": "F:\\手书\\render_1080p\\h3_sr\\rebuild_202_end_agent_20261002_b_spin_v1_4103eebe\\upscaled.mp4",
+      "spatial_density": 1.5,
+      "source_sha256": "4103eebef9c484c68fd25609120d5e38f43aa479476d0ec2234c069f4ea463e6",
+      "output_sha256": "575e5f5a67a7b4f4eada1d75e3f9d832dc34a548eb611e9b73a5ae988517c3a5"
+    },
+    "F:\\手书\\rebuild_60_90\\segment_21_29\\h3\\grab.mp4": {
+      "output": "F:\\手书\\render_1080p\\h3_sr\\segment_21_29_grab_08c1b36a\\upscaled.mp4",
+      "spatial_density": 1.5,
+      "source_sha256": "08c1b36a63033dcc2898898c39c0b81f9095bab60a203ede42bcfb73365deb04",
+      "output_sha256": "08e058a2257292d316507ab3065154b888fc1ce797619bd5e7aafcdbe9b4b24b"
+    },
+    "F:\\手书\\rebuild_60_90\\segment_21_29\\h3\\tear.mp4": {
+      "output": "F:\\手书\\render_1080p\\h3_sr\\segment_21_29_tear_b2207f20\\upscaled.mp4",
+      "spatial_density": 1.5,
+      "source_sha256": "b2207f20105612fc75f6fc3ae5ab2769d4763f3ac11aa9a0391f4b1d7db32170",
+      "output_sha256": "227750ff3d1900c031cb670657b5d57bd14a535f8ca9b044734554a47b177d1c"
+    },
+    "F:\\手书\\rebuild_88_118\\v2\\h3\\mouth_h3_v2.mp4": {
+      "output": "F:\\手书\\render_1080p\\h3_sr\\v2_mouth_h3_v2_4c6ea119\\upscaled.mp4",
+      "spatial_density": 1.5,
+      "source_sha256": "4c6ea119149d9cfa5155cef420c8589a3abdbeaebf4c907254a49430c2f8ff28",
+      "output_sha256": "4653257121baebea74ec0eff36b3f4c654ad031782989ed43b5caa2d0ed799c2"
+    },
+    "F:\\手书\\rebuild_202_end_agent_20261002_b\\v2\\h3\\nod_result.mp4": {
+      "output": "F:\\手书\\render_1080p\\h3_sr\\v2_nod_result_1f438a25\\upscaled.mp4",
+      "spatial_density": 1.5,
+      "source_sha256": "1f438a25ed15e332c33abc47297995146463da31134f01801233a5d1c8fdbe10",
+      "output_sha256": "46df2a6f08f7f3c08168da2cf8e731368b6209feef8443f603fc9e957349eece"
+    },
+    "F:\\手书\\rebuild_88_118\\v3\\h3\\jump_v3.mp4": {
+      "output": "F:\\手书\\render_1080p\\h3_sr\\v3_jump_v3_e812212f\\upscaled.mp4",
+      "spatial_density": 1.5,
+      "source_sha256": "e812212f0ea25d4224f03775e78af76d896e5a42f9cd9ced780d7d71f85a6fa7",
+      "output_sha256": "bd5b5a69106cb372c3a0524769fb2a1ae5e55a7542801d3a782ea4456e3bdd1c"
+    },
+    "F:\\手书\\rebuild_202_end_agent_20261002_b\\v3\\h3\\whisper_result.mp4": {
+      "output": "F:\\手书\\render_1080p\\h3_sr\\v3_whisper_result_70b2c9fc\\upscaled.mp4",
+      "spatial_density": 1.5,
+      "source_sha256": "70b2c9fc92ac94fc994c3ca4e2f90d736cbe68f6bc0588458aaae6fb224cc2a3",
+      "output_sha256": "f2050ddf997973b2a2bfcb407a2e09490f0003ae3e7417845bbd54fbc7971d8b"
+    }
+  }
+}

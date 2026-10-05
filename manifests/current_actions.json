@@ -1,0 +1,24 @@
+[
+  {
+    "file": "assets/current_actions/tear_scene.mp4",
+    "range": [
+      2601,
+      2708
+    ],
+    "frames": 107,
+    "rgb_lossless": true,
+    "all_frames_compared": true,
+    "bytes": 64432472
+  },
+  {
+    "file": "assets/current_actions/mouth_scene.mp4",
+    "range": [
+      3427,
+      3479
+    ],
+    "frames": 52,
+    "rgb_lossless": true,
+    "all_frames_compared": true,
+    "bytes": 15019921
+  }
+]

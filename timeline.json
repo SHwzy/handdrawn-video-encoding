@@ -1,0 +1,352 @@
+[
+  {
+    "start": 0,
+    "end": 55,
+    "recipe": "base"
+  },
+  {
+    "start": 55,
+    "end": 98,
+    "recipe": "v5"
+  },
+  {
+    "start": 98,
+    "end": 154,
+    "recipe": "v12"
+  },
+  {
+    "start": 154,
+    "end": 182,
+    "recipe": "v10"
+  },
+  {
+    "start": 182,
+    "end": 262,
+    "recipe": "v5"
+  },
+  {
+    "start": 262,
+    "end": 318,
+    "recipe": "v9"
+  },
+  {
+    "start": 318,
+    "end": 372,
+    "recipe": "v7"
+  },
+  {
+    "start": 372,
+    "end": 427,
+    "recipe": "v9"
+  },
+  {
+    "start": 427,
+    "end": 449,
+    "recipe": "v10"
+  },
+  {
+    "start": 449,
+    "end": 808,
+    "recipe": "v7"
+  },
+  {
+    "start": 808,
+    "end": 918,
+    "recipe": "v5"
+  },
+  {
+    "start": 918,
+    "end": 1136,
+    "recipe": "v9"
+  },
+  {
+    "start": 1136,
+    "end": 1572,
+    "recipe": "v5"
+  },
+  {
+    "start": 1572,
+    "end": 1736,
+    "recipe": "v9"
+  },
+  {
+    "start": 1736,
+    "end": 1751,
+    "recipe": "v7"
+  },
+  {
+    "start": 1751,
+    "end": 1776,
+    "recipe": "v9"
+  },
+  {
+    "start": 1776,
+    "end": 1790,
+    "recipe": "v5"
+  },
+  {
+    "start": 1790,
+    "end": 1973,
+    "recipe": "v10"
+  },
+  {
+    "start": 1973,
+    "end": 2102,
+    "recipe": "v12"
+  },
+  {
+    "start": 2102,
+    "end": 2130,
+    "recipe": "v5"
+  },
+  {
+    "start": 2130,
+    "end": 2172,
+    "recipe": "v9"
+  },
+  {
+    "start": 2172,
+    "end": 2192,
+    "recipe": "v5"
+  },
+  {
+    "start": 2192,
+    "end": 2227,
+    "recipe": "v9"
+  },
+  {
+    "start": 2227,
+    "end": 2335,
+    "recipe": "v12"
+  },
+  {
+    "start": 2335,
+    "end": 2389,
+    "recipe": "v9"
+  },
+  {
+    "start": 2389,
+    "end": 2443,
+    "recipe": "v5"
+  },
+  {
+    "start": 2443,
+    "end": 2547,
+    "recipe": "v11"
+  },
+  {
+    "start": 2547,
+    "end": 2868,
+    "recipe": "v5"
+  },
+  {
+    "start": 2868,
+    "end": 3061,
+    "recipe": "base"
+  },
+  {
+    "start": 3061,
+    "end": 3073,
+    "recipe": "v9"
+  },
+  {
+    "start": 3073,
+    "end": 3086,
+    "recipe": "base"
+  },
+  {
+    "start": 3086,
+    "end": 3319,
+    "recipe": "v5"
+  },
+  {
+    "start": 3319,
+    "end": 3427,
+    "recipe": "v9"
+  },
+  {
+    "start": 3427,
+    "end": 3479,
+    "recipe": "v5"
+  },
+  {
+    "start": 3479,
+    "end": 3506,
+    "recipe": "v9"
+  },
+  {
+    "start": 3506,
+    "end": 3518,
+    "recipe": "v5"
+  },
+  {
+    "start": 3518,
+    "end": 3540,
+    "recipe": "base"
+  },
+  {
+    "start": 3540,
+    "end": 3917,
+    "recipe": "v5"
+  },
+  {
+    "start": 3917,
+    "end": 3927,
+    "recipe": "v9"
+  },
+  {
+    "start": 3927,
+    "end": 3972,
+    "recipe": "v5"
+  },
+  {
+    "start": 3972,
+    "end": 4162,
+    "recipe": "v10"
+  },
+  {
+    "start": 4162,
+    "end": 4190,
+    "recipe": "v5"
+  },
+  {
+    "start": 4190,
+    "end": 4292,
+    "recipe": "v10"
+  },
+  {
+    "start": 4292,
+    "end": 4313,
+    "recipe": "v5"
+  },
+  {
+    "start": 4313,
+    "end": 4338,
+    "recipe": "v12"
+  },
+  {
+    "start": 4338,
+    "end": 4372,
+    "recipe": "v10"
+  },
+  {
+    "start": 4372,
+    "end": 4394,
+    "recipe": "v11"
+  },
+  {
+    "start": 4394,
+    "end": 4493,
+    "recipe": "v5"
+  },
+  {
+    "start": 4493,
+    "end": 4839,
+    "recipe": "base"
+  },
+  {
+    "start": 4839,
+    "end": 4846,
+    "recipe": "v5"
+  },
+  {
+    "start": 4846,
+    "end": 5069,
+    "recipe": "v11"
+  },
+  {
+    "start": 5069,
+    "end": 5278,
+    "recipe": "v12"
+  },
+  {
+    "start": 5278,
+    "end": 5280,
+    "recipe": "v7"
+  },
+  {
+    "start": 5280,
+    "end": 5463,
+    "recipe": "v5"
+  },
+  {
+    "start": 5463,
+    "end": 5490,
+    "recipe": "v10"
+  },
+  {
+    "start": 5490,
+    "end": 5595,
+    "recipe": "v9"
+  },
+  {
+    "start": 5595,
+    "end": 5678,
+    "recipe": "v5"
+  },
+  {
+    "start": 5678,
+    "end": 5718,
+    "recipe": "v9"
+  },
+  {
+    "start": 5718,
+    "end": 5733,
+    "recipe": "v5"
+  },
+  {
+    "start": 5733,
+    "end": 5744,
+    "recipe": "v9"
+  },
+  {
+    "start": 5744,
+    "end": 5920,
+    "recipe": "v5"
+  },
+  {
+    "start": 5920,
+    "end": 5992,
+    "recipe": "v7"
+  },
+  {
+    "start": 5992,
+    "end": 6077,
+    "recipe": "v9"
+  },
+  {
+    "start": 6077,
+    "end": 6120,
+    "recipe": "v5"
+  },
+  {
+    "start": 6120,
+    "end": 6149,
+    "recipe": "v12"
+  },
+  {
+    "start": 6149,
+    "end": 6227,
+    "recipe": "v7"
+  },
+  {
+    "start": 6227,
+    "end": 6347,
+    "recipe": "v5"
+  },
+  {
+    "start": 6347,
+    "end": 6644,
+    "recipe": "base"
+  },
+  {
+    "start": 6644,
+    "end": 6698,
+    "recipe": "v9"
+  },
+  {
+    "start": 6698,
+    "end": 6900,
+    "recipe": "base"
+  }
+]

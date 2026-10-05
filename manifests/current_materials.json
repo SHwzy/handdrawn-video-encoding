@@ -1,0 +1,21 @@
+{
+  "version": "ying_kanata_v6",
+  "adopted_character_overrides": 109,
+  "source_aliases": 12,
+  "geometry_only_pngs": 11,
+  "caption_only_pngs": 1,
+  "current_lossless_action_ranges": [
+    [
+      2601,
+      2708
+    ],
+    [
+      3427,
+      3479
+    ]
+  ],
+  "shared_input": "original song PV and neutral environments; not historical Anon/Sakiko replacement movie",
+  "private_history": "excluded",
+  "credential_files": "excluded",
+  "review_page": "preview.html shows current baseline only"
+}

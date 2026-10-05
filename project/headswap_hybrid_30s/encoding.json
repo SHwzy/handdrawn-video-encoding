@@ -1,0 +1,290 @@
+{
+  "schema": "handdrawn-hybrid/1",
+  "source_name": "ロウワ― _ Flower -lower one's eyes P1 211111_ロウワー_youtube_440400082.mp4",
+  "output": {
+    "width": 960,
+    "height": 540,
+    "fps": 30,
+    "frames": 900,
+    "active_rect": [
+      0,
+      53,
+      960,
+      434
+    ]
+  },
+  "original_media": "media/original_first30.mp4",
+  "audio": "media/audio_0_30.wav",
+  "principle": "Original video for unchanged shots; analytic layer transforms for reproducible motion; sparse pose keys only where redrawing is required.",
+  "shots": [
+    {
+      "start": 0,
+      "end": 71,
+      "kind": "original",
+      "reason": "No target head: preserve original video, animation and effects"
+    },
+    {
+      "start": 71,
+      "end": 98,
+      "kind": "seedance_running",
+      "variant": 0
+    },
+    {
+      "start": 98,
+      "end": 154,
+      "kind": "original",
+      "reason": "Hands, ritual lines and candles: preserve original video"
+    },
+    {
+      "start": 154,
+      "end": 182,
+      "kind": "side"
+    },
+    {
+      "start": 182,
+      "end": 235,
+      "kind": "original",
+      "reason": "Golden hand and cropped lower bodies: preserve original video"
+    },
+    {
+      "start": 235,
+      "end": 262,
+      "kind": "seedance_running",
+      "variant": 1
+    },
+    {
+      "start": 262,
+      "end": 318,
+      "kind": "crowd_panorama",
+      "cuts": [
+        290,
+        304
+      ]
+    },
+    {
+      "start": 318,
+      "end": 331,
+      "kind": "camera",
+      "asset": "assets/maid_medium.png",
+      "begin": [
+        1.035,
+        -5,
+        0
+      ],
+      "finish": [
+        1.07,
+        5,
+        0
+      ]
+    },
+    {
+      "start": 331,
+      "end": 343,
+      "kind": "camera",
+      "asset": "assets/maid_down.png",
+      "begin": [
+        1.025,
+        -3,
+        0
+      ],
+      "finish": [
+        1.065,
+        3,
+        2
+      ]
+    },
+    {
+      "start": 343,
+      "end": 372,
+      "kind": "camera",
+      "asset": "assets/maid_floor.png",
+      "begin": [
+        1.105,
+        0,
+        -7
+      ],
+      "finish": [
+        1.035,
+        0,
+        2
+      ]
+    },
+    {
+      "start": 372,
+      "end": 427,
+      "kind": "stage",
+      "cuts": [
+        400
+      ]
+    },
+    {
+      "start": 427,
+      "end": 453,
+      "kind": "pose_keys",
+      "keys": [
+        {
+          "start": 427,
+          "asset": "assets/anon_bowed.png"
+        },
+        {
+          "start": 431,
+          "asset": "assets/anon_lifting.png"
+        },
+        {
+          "start": 435,
+          "asset": "assets/anon_front.png"
+        }
+      ],
+      "begin": [
+        1.018,
+        0,
+        0
+      ],
+      "finish": [
+        1.036,
+        0,
+        0
+      ],
+      "particles": {
+        "start": 441,
+        "end": 453,
+        "seed": 7,
+        "count": 24
+      }
+    },
+    {
+      "start": 453,
+      "end": 468,
+      "kind": "camera",
+      "asset": "assets/anon_dream.png",
+      "begin": [
+        1.0,
+        0,
+        0
+      ],
+      "finish": [
+        1.065,
+        0,
+        0
+      ],
+      "focus": [
+        1.6,
+        0.0
+      ],
+      "pixel_entry_frames": 2
+    },
+    {
+      "start": 468,
+      "end": 482,
+      "kind": "camera",
+      "asset": "assets/anon_hands.png",
+      "begin": [
+        1.075,
+        0,
+        -2
+      ],
+      "finish": [
+        1.025,
+        0,
+        0
+      ],
+      "focus": [
+        1.0,
+        0
+      ]
+    },
+    {
+      "start": 482,
+      "end": 808,
+      "kind": "cathedral",
+      "cuts": [
+        698
+      ],
+      "layers": [
+        "background",
+        "seated_character",
+        "title"
+      ]
+    },
+    {
+      "start": 808,
+      "end": 863,
+      "kind": "eye_motion",
+      "asset": "assets/maid_eye.png",
+      "begin": [
+        1.065,
+        -12,
+        -3
+      ],
+      "finish": [
+        1.12,
+        10,
+        3
+      ],
+      "focus": [
+        1.5,
+        0
+      ]
+    },
+    {
+      "start": 863,
+      "end": 878,
+      "kind": "camera",
+      "asset": "assets/anon_crowd.png",
+      "begin": [
+        1.035,
+        -5,
+        0
+      ],
+      "finish": [
+        1.05,
+        5,
+        0
+      ],
+      "flash_frame": 867
+    },
+    {
+      "start": 878,
+      "end": 892,
+      "kind": "original",
+      "reason": "Letter and hand: preserve original video"
+    },
+    {
+      "start": 892,
+      "end": 900,
+      "kind": "camera",
+      "asset": "assets/two_people.png",
+      "begin": [
+        1.0,
+        0,
+        0
+      ],
+      "finish": [
+        1.025,
+        0,
+        0
+      ]
+    }
+  ],
+  "modules": {
+    "running": "running/renderer.py",
+    "seedance_running": "running/seedance_clip.py",
+    "side": "side/renderer.py",
+    "crowd": "crowd/renderer.py",
+    "stage": "stage/renderer.py",
+    "cathedral": "cathedral/renderer_v10.py"
+  },
+  "source_assets": {
+    "maid_medium": "middle_static/f0318_v1.png",
+    "maid_down": "middle_static/f0338_v2.png",
+    "maid_floor": "middle_static/f0343_v1.png",
+    "anon_bowed": "generated/anon_f0427_v1.png",
+    "anon_lifting": "generated/anon_f0432_v1.png",
+    "anon_front": "generated/anon_f0436_v1.png",
+    "anon_dream": "generated/anon_f0467_v1.png",
+    "anon_hands": "generated/anon_f0476_v1.png",
+    "maid_eye": "portrait/portrait_f0832_v2.png",
+    "anon_crowd": "portrait/portrait_f0868_v1.png",
+    "two_people": "portrait/portrait_f0895_v1.png"
+  }
+}

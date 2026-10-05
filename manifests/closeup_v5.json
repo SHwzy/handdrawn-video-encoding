@@ -1,0 +1,17 @@
+{
+  "version": "ying_kanata_v5",
+  "range": [
+    2335,
+    2389
+  ],
+  "reason": "Complete1536px source was cropped by old1024px intermediate canvas. New1211px intermediate canvas retains right hat brim and shoulder after x=-325 shift.",
+  "source_assets_changed": false,
+  "recipes": [
+    "step2_v9",
+    "step2_v10",
+    "grounding_v11",
+    "subtitles_v12"
+  ],
+  "validation": "Root edit entry rendered54 affected frames; six normal/pattern states visually inspected. Full6900-frame V5 assembled from validated V4 parts plus corrected part, fullAV decode passed. Prior portable all6900-frame rebuild and435-frame pixel checks belong to V4; V5 was not fully re-rendered from this package.",
+  "user_acceptance": "pending"
+}

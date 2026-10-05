@@ -1,0 +1,160 @@
+[
+  {
+    "path": "project/headswap_hybrid_30_60/finale/assets/dance_pair_v1.png",
+    "canvas": [
+      1536,
+      1024
+    ],
+    "bbox": [
+      213,
+      0,
+      1483,
+      1024
+    ],
+    "purpose": "geometry-only proxy; no historical character pixels"
+  },
+  {
+    "path": "project/headswap_hybrid_30_60/finale/assets/seated_pair_v1.png",
+    "canvas": [
+      1263,
+      1245
+    ],
+    "bbox": [
+      55,
+      11,
+      1218,
+      1225
+    ],
+    "purpose": "geometry-only proxy; no historical character pixels"
+  },
+  {
+    "path": "project/headswap_hybrid_30s/crowd/panorama.png",
+    "canvas": [
+      2172,
+      724
+    ],
+    "bbox": [
+      0,
+      0,
+      2172,
+      724
+    ],
+    "purpose": "geometry-only proxy; no historical character pixels"
+  },
+  {
+    "path": "project/headswap_hybrid_30s/side/raw/foreground_v1.png",
+    "canvas": [
+      1658,
+      949
+    ],
+    "bbox": [
+      0,
+      0,
+      907,
+      949
+    ],
+    "purpose": "geometry-only proxy; no historical character pixels"
+  },
+  {
+    "path": "project/rebuild_118_147/assets/rain_handhold.png",
+    "canvas": [
+      1346,
+      1168
+    ],
+    "bbox": [
+      159,
+      20,
+      1158,
+      1141
+    ],
+    "purpose": "geometry-only proxy; no historical character pixels"
+  },
+  {
+    "path": "project/rebuild_182_202_agent_20261002_a/assets_v2/dip_bone.png",
+    "canvas": [
+      1671,
+      941
+    ],
+    "bbox": [
+      395,
+      1,
+      1446,
+      941
+    ],
+    "purpose": "geometry-only proxy; no historical character pixels"
+  },
+  {
+    "path": "project/rebuild_182_202_agent_20261002_a/assets_v2/dip_normal.png",
+    "canvas": [
+      1670,
+      941
+    ],
+    "bbox": [
+      43,
+      8,
+      1631,
+      941
+    ],
+    "purpose": "geometry-only proxy; no historical character pixels"
+  },
+  {
+    "path": "project/rebuild_202_end_agent_20261002_b/assets/choke.png",
+    "canvas": [
+      1672,
+      941
+    ],
+    "bbox": [
+      0,
+      0,
+      1672,
+      941
+    ],
+    "purpose": "geometry-only proxy; no historical character pixels"
+  },
+  {
+    "path": "project/rebuild_60_90/assets/anon_front_v1.png",
+    "canvas": [
+      1024,
+      1536
+    ],
+    "bbox": [
+      4,
+      2,
+      1024,
+      1536
+    ],
+    "purpose": "geometry-only proxy; no historical character pixels"
+  },
+  {
+    "path": "project/rebuild_88_118/assets/back.png",
+    "canvas": [
+      1024,
+      1536
+    ],
+    "bbox": [
+      218,
+      55,
+      1024,
+      1536
+    ],
+    "purpose": "geometry-only proxy; no historical character pixels"
+  },
+  {
+    "path": "project/rebuild_88_118/assets/cage_maid.png",
+    "canvas": [
+      1024,
+      1536
+    ],
+    "bbox": [
+      46,
+      12,
+      898,
+      1525
+    ],
+    "purpose": "geometry-only proxy; no historical character pixels"
+  },
+  {
+    "path": "project/detail_fix_20261003/step1_assets_v9/assets/07_k1.png",
+    "purpose": "only adopted screen-space right caption strip; historical character pixels removed"
+  }
+]

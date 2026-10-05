@@ -1,0 +1,37 @@
+{
+  "source": "ロウワ― _ Flower -lower one's eyes P1 211111_ロウワー_youtube_440400082.mp4",
+  "source_frames": [
+    5460,
+    6077
+  ],
+  "end_exclusive": true,
+  "source_seconds": [
+    182,
+    202.56666666666666
+  ],
+  "output_fps": 30,
+  "output_frames": 617,
+  "output_size": [
+    960,
+    540
+  ],
+  "status": "candidate_not_approved",
+  "baseline": "../rebuild_147_182/baseline_v5.json",
+  "excluded": "6077帧开始的黑白双人远景及之后全部内容",
+  "source_reuse": [
+    {
+      "frames": [
+        5744,
+        5773
+      ],
+      "reason": "用户明确要求脚部原片沿用"
+    }
+  ],
+  "boundary_hold": {
+    "frames": [
+      5460,
+      5463
+    ],
+    "reason": "承接已认可v5末帧，保持3帧；其后抬头动画起点5463"
+  }
+}

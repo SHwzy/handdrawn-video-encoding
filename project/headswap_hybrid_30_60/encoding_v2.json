@@ -1,0 +1,190 @@
+{
+  "version": "v2",
+  "fps": 30,
+  "source_start": 900,
+  "source_end_exclusive": 1800,
+  "width": 960,
+  "height": 540,
+  "active_rect": [
+    0,
+    53,
+    960,
+    434
+  ],
+  "approved_shot_C": "mannequin/output/shot_v4_parts.mp4",
+  "shots": [
+    {
+      "id": "A",
+      "start": 900,
+      "end": 905,
+      "mode": "continuation",
+      "asset": "../headswap_hybrid_30s/assets/two_people.png",
+      "zoom_at_899": 1.025,
+      "zoom_velocity_per_frame": 0.0035714285714285713
+    },
+    {
+      "id": "T",
+      "start": 905,
+      "end": 918,
+      "mode": "original",
+      "reason": "dark textured transition without target characters"
+    },
+    {
+      "id": "B",
+      "start": 918,
+      "end": 1136,
+      "mode": "plates",
+      "directory": "chairs",
+      "shift_x": -88.6,
+      "seed": 7301,
+      "rotation_deg": 11,
+      "mirror_x": false,
+      "mirror_y": false,
+      "variation": 0.38,
+      "pattern_width": 1.7,
+      "passes": [
+        [
+          54,
+          113
+        ],
+        [
+          94,
+          158
+        ],
+        [
+          148,
+          206
+        ]
+      ],
+      "lyrics": [
+        "言いかけていた事が一つ消えてまた増えて",
+        "背中に後ろめたさが残る"
+      ]
+    },
+    {
+      "id": "C",
+      "start": 1136,
+      "end": 1354,
+      "mode": "approved_clip",
+      "path": "mannequin/output/shot_v4_parts.mp4",
+      "seed": 20260930,
+      "pattern_width": 1.7,
+      "mask_motion": "independent_monotonic_parts_v4"
+    },
+    {
+      "id": "D",
+      "start": 1354,
+      "end": 1572,
+      "mode": "plates",
+      "directory": "group",
+      "shift_x": -99.9,
+      "seed": 1488,
+      "rotation_deg": -9,
+      "mirror_x": true,
+      "mirror_y": false,
+      "variation": 0.38,
+      "pattern_width": 1.7,
+      "passes": [
+        [
+          53,
+          115
+        ],
+        [
+          96,
+          157
+        ],
+        [
+          147,
+          205
+        ]
+      ],
+      "lyrics": [
+        "受け止めたいことが自分さえ抱えられず",
+        "持て余したそれを守っている"
+      ]
+    },
+    {
+      "id": "E",
+      "start": 1572,
+      "end": 1736,
+      "mode": "plates",
+      "directory": "chase",
+      "shift_x": 75.3,
+      "seed": 8913,
+      "rotation_deg": 7,
+      "mirror_x": false,
+      "mirror_y": true,
+      "variation": 0.32,
+      "pattern_width": 1.7,
+      "passes": [
+        [
+          5,
+          65
+        ],
+        [
+          43,
+          110
+        ],
+        [
+          105,
+          153
+        ]
+      ],
+      "lyrics": [
+        "霞んだ声はからからに喉を焼いて埋め尽くす",
+        "何を言うべきか分からなくて"
+      ]
+    },
+    {
+      "id": "F",
+      "start": 1736,
+      "end": 1751,
+      "mode": "joined_hands",
+      "asset": "finale/assets/joined_hands_v1.png",
+      "lyrics": [
+        "霞んだ声はからからに喉を焼いて埋め尽くす",
+        "何を言うべきか分からなくて"
+      ]
+    },
+    {
+      "id": "G",
+      "start": 1751,
+      "end": 1776,
+      "mode": "parallax",
+      "background": "finale/assets/dance_room_v1.png",
+      "foreground": "finale/assets/guests_v2.png",
+      "pair": "finale/assets/seated_pair_v1.png",
+      "background_up_px": 44,
+      "pair_up_px": 75,
+      "foreground_up_px": 166,
+      "focus_sigma_px": 2.4
+    },
+    {
+      "id": "H",
+      "start": 1776,
+      "end": 1790,
+      "mode": "somber_portrait",
+      "asset": "finale/assets/sakiko_somber_v1.png",
+      "zoom_start": 1.1376564277599546,
+      "zoom_end": 1.0,
+      "focus_start_px": 2.6,
+      "focus_end_px": 0
+    },
+    {
+      "id": "I",
+      "start": 1790,
+      "end": 1800,
+      "mode": "dance_zoom_rotation",
+      "pair": "finale/assets/dance_pair_v1.png",
+      "zoom_start": 1.48,
+      "zoom_end": 1.0,
+      "rotation_start_deg": 0,
+      "rotation_end_deg": 8.68,
+      "lyrics": [
+        "感じてたものが遠く放たれていた",
+        "同じ様で違うなんだか違う"
+      ]
+    }
+  ],
+  "approval": "User accepted mannequin v4 independent monotonic part transforms"
+}

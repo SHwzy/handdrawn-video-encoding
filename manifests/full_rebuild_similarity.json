@@ -1,0 +1,12 @@
+{
+  "accepted_video": "baseline/current_ying_kanata_v4.mp4",
+  "comparison": "full editable rebuild versus accepted V4",
+  "frames": 6900,
+  "metric": "ffmpeg ssim",
+  "ssim_all": 0.999952,
+  "ssim_y": 0.999936,
+  "ssim_u": 0.999981,
+  "ssim_v": 0.999985,
+  "scope": "all 6900 decoded video frames",
+  "note": "Encoded rebuild is not byte-identical to baseline; baseline remains the exact user-accepted output."
+}

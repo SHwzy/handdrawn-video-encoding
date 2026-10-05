@@ -1,0 +1,117 @@
+{
+  "camera": {
+    "vanishing_y": 185.0,
+    "focal_px": 800.0,
+    "half_width": 1.0,
+    "floor_height": 0.09756967733649198,
+    "ceiling_height": 0.6,
+    "back_depth": 3.0,
+    "plate_scale": 0.75,
+    "plate_center": [
+      887.0,
+      548.4556962025316
+    ]
+  },
+  "wide_subject": {
+    "scale_start": 0.09,
+    "scale_end": 0.149,
+    "contact_start": 300.0,
+    "depth": 0.6787455814712485
+  },
+  "close_subject": {
+    "scale_start": 0.43,
+    "scale_end": 0.65,
+    "head_top": 24.0,
+    "head_asset_y": 63.0,
+    "depth": 0.8
+  },
+  "wide": [
+    {
+      "frame": 482,
+      "advance": 0.0,
+      "dots": 0
+    },
+    {
+      "frame": 540,
+      "advance": 0.0645036069371334,
+      "dots": 0
+    },
+    {
+      "frame": 600,
+      "advance": 0.13975781503045573,
+      "dots": 0
+    },
+    {
+      "frame": 645,
+      "advance": 0.2015737716785419,
+      "dots": 0.025
+    },
+    {
+      "frame": 675,
+      "advance": 0.2445761763032975,
+      "dots": 0.22
+    },
+    {
+      "frame": 697,
+      "advance": 0.26876502890472254,
+      "dots": 0.28
+    }
+  ],
+  "close": [
+    {
+      "frame": 698,
+      "advance": 0.26876502890472254,
+      "dots": 0.28
+    },
+    {
+      "frame": 734,
+      "advance": 0.3581188750585687,
+      "dots": 0.26
+    },
+    {
+      "frame": 770,
+      "advance": 0.4501804135201072,
+      "dots": 0.23
+    },
+    {
+      "frame": 807,
+      "advance": 0.5395342596739534,
+      "dots": 0.23
+    }
+  ],
+  "dot_grid": {
+    "spacing_px": 2.85,
+    "angle_degrees": 45.0,
+    "edge_px": 0.3
+  },
+  "calibration": {
+    "tile_edges": [
+      [
+        [
+          489,
+          886
+        ],
+        [
+          726,
+          685
+        ]
+      ],
+      [
+        [
+          1285,
+          886
+        ],
+        [
+          1048,
+          685
+        ]
+      ]
+    ],
+    "vanishing_point": [
+      887.0,
+      548.4556962025316
+    ],
+    "note": "Manual tile edge annotations, approximate generated plate geometry, not recovered original AE scene."
+  },
+  "method": "Fixed focal length room projection; separate camera setup at close cut. Close camera vertical framing holds headroom."
+}

@@ -1,0 +1,24 @@
+{
+  "version": "ying_kanata_v6",
+  "status": "correction_pending_user_review",
+  "user_visual_acceptance": "V4已认可；V6抬头重生成和特写修正待用户复核",
+  "range": [
+    0,
+    6900
+  ],
+  "fps": 30,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "duration": 230,
+  "master": "baseline/current_ying_kanata_v6.mp4",
+  "playback": "baseline/current_ying_kanata_v6.mp4",
+  "timeline": "timeline.json",
+  "render_entry": "render.py",
+  "verification": "manifests/verification.json",
+  "asset_overrides": "asset_overrides.json",
+  "materials": "素材替换清单.csv",
+  "portable_verification": "manifests/portable_verification.json",
+  "predecessor_accepted": "ying_kanata_v4"
+}

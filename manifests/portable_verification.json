@@ -1,0 +1,22 @@
+{
+  "baseline": "ying_kanata_v4",
+  "baseline_user_acceptance": "2026-10-04 user accepted V4 as current baseline",
+  "relocation_check": "all seven recipe groups completed in new project directory",
+  "pixel_comparison_frames": 435,
+  "pixel_comparison": "all compared RGB pixels identical to original current project",
+  "current_actions": "159 frames all verified RGB lossless",
+  "historical_private_files_checked": 126,
+  "historical_file_hash_matches": 0,
+  "credentials": "no credentials or generation jobs included",
+  "local_dependencies": "Windows fonts and FFmpeg installed locally; excluded from release",
+  "full_edit_rebuild": "all 6900 frames rendered from new directory and full video/audio decode passed",
+  "full_edit_video": {
+    "frames": 6900,
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "duration": "230.000000"
+  },
+  "replay_packet_streams_identical": true,
+  "full_edit_audio_packets_identical": true
+}

@@ -1,0 +1,1387 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 79,
+    "sha256": "366d91dbcc6746c5d63b3f342d98367fa895055f17f93bdf85b1365e6bcaa3a0"
+  },
+  {
+    "path": "AGENTS.md",
+    "bytes": 1262,
+    "sha256": "5f4b50efe525f402c965970b3c42fc3fa50bfe95b50b83cf7ff74d908ba560d8"
+  },
+  {
+    "path": "asset_overrides.json",
+    "bytes": 15952,
+    "sha256": "84bddced7dc37f85c8605b8d138d6853d2f93fee0c3dabade404fa270654aa8a"
+  },
+  {
+    "path": "assets/characters_ying_kanata/baselines/kanata_witch_front_v1.png",
+    "bytes": 2463095,
+    "sha256": "d7b3091179e0b290432f89e282a406126fe4527cab79fc1bae8e397137fa2f0d"
+  },
+  {
+    "path": "assets/characters_ying_kanata/baselines/ying_maid_front_v2.png",
+    "bytes": 1692061,
+    "sha256": "6fa81a93f08ddc8f20a18e21bcdbccedbb9d272783dd8fcc349f05f5bbef9e70"
+  },
+  {
+    "path": "assets/characters_ying_kanata/beach_stand_gap/ying_stand_v2.png",
+    "bytes": 1337705,
+    "sha256": "f54d34f9c08e07b0ddce5ee31442a4d77267e167a1b891122cb8652a7af8747c"
+  },
+  {
+    "path": "assets/characters_ying_kanata/bow_cleanup/bow_v2.png",
+    "bytes": 2391922,
+    "sha256": "b8cb88f2f7f61dbd322197ff8aba3d6f3490172920a658f19441d2013bcbed8e"
+  },
+  {
+    "path": "assets/characters_ying_kanata/crowd_cage_repair/witch_cage_repair_v1_canvas.png",
+    "bytes": 681008,
+    "sha256": "8a80a5ee1041f295aaa2aed198852bc44fb69dedaabb0fe29561dbc9eb2d8e63"
+  },
+  {
+    "path": "assets/characters_ying_kanata/crowd_cage_repair/witch_crowd_repair_v1_canvas.png",
+    "bytes": 675898,
+    "sha256": "46a3bc04e0435bef1842fb36a5761e87970caae16faf10bfe7e025af0958961a"
+  },
+  {
+    "path": "assets/characters_ying_kanata/final_gap_batch/joined_hands_ying_kanata_v3_native.png",
+    "bytes": 2514610,
+    "sha256": "55824ddf007e0bcfeefa94aadeb8368b14724157ff21962507db746e2f7ebc44"
+  },
+  {
+    "path": "assets/characters_ying_kanata/final_gap_batch2/anon_full_kanata_v1.png",
+    "bytes": 1299357,
+    "sha256": "8985fa4a54ad6d2a6acf7f608e97987b8562cd5c1c19d5e8f7c4a21673439a28"
+  },
+  {
+    "path": "assets/characters_ying_kanata/final_gap_batch2/hood_full_ying_v3.png",
+    "bytes": 1264959,
+    "sha256": "b8ec0d01e803d75ae11ab5e42f065e44fd0b5d152d1a5f68fa5d0ada8dc50743"
+  },
+  {
+    "path": "assets/characters_ying_kanata/grab_motion/grab_h3_sr_canvas_v1.mp4",
+    "bytes": 2837927,
+    "sha256": "c34fe737e208e4172094b0640733ead26664754e4c1b312d537f36a09394957e"
+  },
+  {
+    "path": "assets/characters_ying_kanata/head/regenerated_user_v3/end_clean_v2.png",
+    "bytes": 3265107,
+    "sha256": "17b8b6f412fd79d28efeb88cb429ffef56f48430c0158f38016c589e687133a2"
+  },
+  {
+    "path": "assets/characters_ying_kanata/head/regenerated_user_v3/front_user_clean_v1.png",
+    "bytes": 2263977,
+    "sha256": "fd97db26054cf2857a8043b224fd04b1984018cf53b4205eeae3d838ee6ac5d3"
+  },
+  {
+    "path": "assets/characters_ying_kanata/head/regenerated_user_v3/generated_h3_v1.mp4",
+    "bytes": 1926631,
+    "sha256": "9cfca6e020a8f4a16a4179bbeb4130070330384c912aaba3f18fa89691addc49"
+  },
+  {
+    "path": "assets/characters_ying_kanata/head/regenerated_user_v3/start_clean_v2.png",
+    "bytes": 2773940,
+    "sha256": "abe07db7036e517a999734993bb661f17b530d3c9bff00737231f6fc642082ba"
+  },
+  {
+    "path": "assets/characters_ying_kanata/kanata_batch/02_kanata_v1.png",
+    "bytes": 1460683,
+    "sha256": "bf911024799fbcac17a684b78e34f699a98035c44c1ac294053620e4de29ea77"
+  },
+  {
+    "path": "assets/characters_ying_kanata/kanata_batch/20_kanata_alpha_v2.png",
+    "bytes": 1736860,
+    "sha256": "6ad8a4c621b9cd391a29abe8a8edf4a757695a2fbaf3be3c1137aac92b5b20b2"
+  },
+  {
+    "path": "assets/characters_ying_kanata/kanata_batch/41_kanata_v1.png",
+    "bytes": 2491323,
+    "sha256": "b0001bf9bd11194ea28cc9ef6ae9d915038db9058ad81b646a2c0063ba65dc56"
+  },
+  {
+    "path": "assets/characters_ying_kanata/kanata_batch/42_kanata_v1.png",
+    "bytes": 1420870,
+    "sha256": "43cfb816f3e28d898fb2ff37797e68a7d2b251ac080d8d2713dfc440d53d667a"
+  },
+  {
+    "path": "assets/characters_ying_kanata/kanata_batch/title_kanata_v1_canvas.png",
+    "bytes": 964823,
+    "sha256": "384d690e71050e6002ef0dc3cdeb9f61c455b9e965cef06ffc850f66288a65a2"
+  },
+  {
+    "path": "assets/characters_ying_kanata/kanata_batch2/rain_kanata_v1.png",
+    "bytes": 1671750,
+    "sha256": "58f49bd90d43063d34687f9bed2ae3b86f41d6b0c5de28607d37f160b0a3c767"
+  },
+  {
+    "path": "assets/characters_ying_kanata/kanata_batch2/reach_kanata_v1.png",
+    "bytes": 1351219,
+    "sha256": "d5463a5592f99b395c3d14b67d4135e89e0a87a0809a088ac135d18d5cf3049c"
+  },
+  {
+    "path": "assets/characters_ying_kanata/kanata_batch2/stand_kanata_v1.png",
+    "bytes": 1477973,
+    "sha256": "3a8b7e06a0011390030cf62450b46063edba78d1083f2aa00f9b2b4a5b340388"
+  },
+  {
+    "path": "assets/characters_ying_kanata/lift_pair_batch/kanata_lift_seedance_v1_input56_v1.mp4",
+    "bytes": 2521703,
+    "sha256": "d62fd96cf4acc5061841bb09a83c561d1f77e322cba82581b89b900a965d1f2d"
+  },
+  {
+    "path": "assets/characters_ying_kanata/lift_pair_batch/prone_hood_v2.png",
+    "bytes": 1904767,
+    "sha256": "f4c34b5db0552845a4fe7a1e9212b07366f6897b10a938acd3220034694e5378"
+  },
+  {
+    "path": "assets/characters_ying_kanata/lift_pair_batch/ying_lift_seedance_v2_input56_v1.mp4",
+    "bytes": 1641413,
+    "sha256": "b164e55e02836644e4e2acc88c3955bb70ae77f9ebe3ad2136da8633ab75a3c6"
+  },
+  {
+    "path": "assets/characters_ying_kanata/middle_static_batch/anon_crowd_v1.png",
+    "bytes": 2359473,
+    "sha256": "b4669b1a21a0abf452f7a24b3bf3bf0290d48e3352fde2085cc7a4246b3e083f"
+  },
+  {
+    "path": "assets/characters_ying_kanata/middle_static_batch/closeup_eye_b_v1.png",
+    "bytes": 2522085,
+    "sha256": "8df659713f97a637ad1c30babf9ee26e8db63554cc71c06b6b954274305c0c0b"
+  },
+  {
+    "path": "assets/characters_ying_kanata/middle_static_batch/closeup_v1.png",
+    "bytes": 2657375,
+    "sha256": "b29ae5b4af69dcdf889324602cc134c049a87624f3cc32d3ebf17e200c0c9278"
+  },
+  {
+    "path": "assets/characters_ying_kanata/middle_static_batch/mouth_smile_v1.png",
+    "bytes": 1298978,
+    "sha256": "94935644f2fe15417012a9baacb3e47673195493b2346c5f396793cf8393bf42"
+  },
+  {
+    "path": "assets/characters_ying_kanata/middle_static_batch/poster_a_v1_canvas.png",
+    "bytes": 3232824,
+    "sha256": "6ef6a8152cd59ffefbd516ad114d9155a4e3fc1d8f76eb16c510d0cda857c2c7"
+  },
+  {
+    "path": "assets/characters_ying_kanata/middle_static_batch/poster_b_v1_canvas.png",
+    "bytes": 2995449,
+    "sha256": "4bd0b441e6ee70bebf2784f8d0468748838d974e2faab51baaec1acd2106049d"
+  },
+  {
+    "path": "assets/characters_ying_kanata/mixed/forest_ying_v1.png",
+    "bytes": 1050997,
+    "sha256": "47f22d3846ce0f2101085e36e7774efb4e4b4fd0cd25826e4edc59c5da089fd6"
+  },
+  {
+    "path": "assets/characters_ying_kanata/mixed/hug_v1_canvas.png",
+    "bytes": 936295,
+    "sha256": "4b2c53885d66d98ccb252af812e9233727eb4dedc4c405b7520c2ce49e30dd7d"
+  },
+  {
+    "path": "assets/characters_ying_kanata/mouth/generated_v1.mp4",
+    "bytes": 4148411,
+    "sha256": "de731e040138d7cf9e6be35921c4d9ec967e730ccdff9f1d29d82968ad76a462"
+  },
+  {
+    "path": "assets/characters_ying_kanata/opening_batch/kneeling_ying_v2.png",
+    "bytes": 1918574,
+    "sha256": "dd3c8280ece0603ae5e581ca2cc49672662f2caa573112d79068a178e23e9e0d"
+  },
+  {
+    "path": "assets/characters_ying_kanata/opening_batch/panorama_ying_kanata_v1.png",
+    "bytes": 2636653,
+    "sha256": "8baf38ca1e0e826fdb7afff18f38c03ac18bf7df342b2d83153e7e8eb71874fb"
+  },
+  {
+    "path": "assets/characters_ying_kanata/opening_batch/two_people_ying_kanata_v1.png",
+    "bytes": 2073385,
+    "sha256": "29ea757e4ac4552bd379d340ed3f6514add68e30c913a1e47760e3291e4f5ffd"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch/16_chairs_reality_ying_v1.png",
+    "bytes": 2522259,
+    "sha256": "075b044966fd3937228624c9ece5aec697b1f7d2196645866e87eb460f9fb7b8"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch/16_chairs_white_ying_v1.png",
+    "bytes": 3016504,
+    "sha256": "d48002943b71810278b7a64f63ef19d7ad04f188324f0f24850424bc3eacd669"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch/19_chase_pattern_ying_kanata_v1.png",
+    "bytes": 2969789,
+    "sha256": "68e93d9fedb34786ee2da3726ddbce481f8dab2086eeb3b623ee7348e7f08f74"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch/19_chase_reality_ying_kanata_v3.png",
+    "bytes": 2329318,
+    "sha256": "3cd7ae3102de988802d0872b131c7f1039d241890e4fce39713697985f8a3cb5"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch/19_chase_white_ying_kanata_v2_native.png",
+    "bytes": 2353212,
+    "sha256": "597be4783c3a25eac3808a6203f4e9e3eb067bd38a4c7fbacc73ebbfb8df2995"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch/19_close_kanata_v1.png",
+    "bytes": 1768656,
+    "sha256": "31c7c9f5109a70019eef0c7b086e473ed62d42cb5185f635d608a45a6078e446"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch/19_kneeling_kanata_v1.png",
+    "bytes": 1641738,
+    "sha256": "e2e4102d151fe0134c70e64d5d87da8d7401305212972868102b7af4e9f74c11"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch/22_k1_ying_kanata_v1.png",
+    "bytes": 2043600,
+    "sha256": "4ed5d512d4a5412ee56ed0db2c82e1ccfb2155ec83fa0157fef8004ea42431b6"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch/22_k2_ying_kanata_v1.png",
+    "bytes": 1968205,
+    "sha256": "de964774d474be1051b37e6ebefbc3c367a0f2cb9e641e8c05218aa05b197425"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch/22_k3_ying_v1.png",
+    "bytes": 1765346,
+    "sha256": "da05824c6139a020917b0e5d40d519284514e40436aa81a9dc81a3225282be54"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch/22_k4_ying_kanata_v1_native.png",
+    "bytes": 1424265,
+    "sha256": "c7ffb9a0942546e8dede7a60e83d68f87290204c82dda615c3c75704f9ab836a"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch2/33_rain_handhold_ying_kanata_v1_native.png",
+    "bytes": 760806,
+    "sha256": "4c590854ec5a11f418374c4681676e8b56c998313c34e992d249f393420592d7"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch2/beach_dance_surprised_ying_kanata_v1.png",
+    "bytes": 1755465,
+    "sha256": "d2f00453ea85a7c08e7c702c922da5c512fc9dc1a49ac64303c2bd8e904d536b"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch2/dance_a_ying_kanata_v1.png",
+    "bytes": 1699539,
+    "sha256": "cd5d97981934eb3af9b0fbd23d56c8aac905a9e7276873574901123d20c87568"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch2/dance_b_closed_ying_kanata_v1.png",
+    "bytes": 2039393,
+    "sha256": "e5d524396cc42f9dde2973cc324afb159d4c758b0eb6d8fc96f51288ea04c3a2"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch2/dance_b_open_ying_kanata_v1.png",
+    "bytes": 1804885,
+    "sha256": "b6aa5b5db84558ae365a0b0143d9306dd0882e8a7dddc11dd6e4f2827a72c286"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch2/rain_run_ying_kanata_v2_native.png",
+    "bytes": 1182314,
+    "sha256": "5f3a65618b933f36e872c24b01ecff3f7e586ede72cb805cb8d9ceb70d762f05"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch3/close_surprised_ying_v1.png",
+    "bytes": 1178491,
+    "sha256": "2ae153b1158cb095730c66181a068b950f78fa5a52d3e6c0248fc233708c6feb"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch3/group_reality_kanata_v2_native.png",
+    "bytes": 2305673,
+    "sha256": "249808ba5e6d4b2a63c6b69c14c1283b19db9fda5748aa54a2dda70e6d7343e2"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch3/group_white_kanata_v2_native.png",
+    "bytes": 2899278,
+    "sha256": "2121fce69ac84b33936b3f57cfb765e5f19fa199f487df8444eb3df3fd111871"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch3/mannequin_reality_kanata_v1.png",
+    "bytes": 2738188,
+    "sha256": "3699d92fa21bebbd25ff53db44978ea88ccc5a7dcd6187e201b3fc86335299ed"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch3/mannequin_white_kanata_v1.png",
+    "bytes": 1904525,
+    "sha256": "7e1a2051979a6a6457a0a58cb1f1a39a3517471989de231ab4977a754e3b22e9"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch3/somber_ying_v1.png",
+    "bytes": 2531677,
+    "sha256": "b067b9ab295d328b09495ac4ebfa3d16261e2ef2db0923a52324e03de37c7768"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch3/tear_ying_v2.png",
+    "bytes": 1603709,
+    "sha256": "f0cee129b2edb4cd0359fbe282eb9e0a63bc6a7967f12f48b1ebd957fbc0a140"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch3/turn_a_ying_v2_native.png",
+    "bytes": 1914433,
+    "sha256": "af53e7a0356b6f17dc7c6aba12af98ca9138dc8ff11340dac73eb53549c45a02"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch3/turn_b_ying_v1.png",
+    "bytes": 1783852,
+    "sha256": "119a883d474ae242d441a7f619302f12eb781b84dccbda73f5cc03a91016826a"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch4/dance_bone_ying_v1_native.png",
+    "bytes": 1306486,
+    "sha256": "859cfec6b78b83484aaf67b344c99f7be316f7ab6039c2a0b94e541f1962947b"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch4/dance_normal_ying_kanata_v2.png",
+    "bytes": 1233913,
+    "sha256": "6aac4168d35d59afe8875f1b25580fbc5f5fac1cd343b0fc75991cd383c1788c"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch4/dance_solo_ying_v1_native.png",
+    "bytes": 1021993,
+    "sha256": "7ca6ade540417ada78de8abd31bdcb78ee4a43e062d877b96975d8870e3150b7"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch4/dip_bone_ying_v1_source_native.png",
+    "bytes": 1134005,
+    "sha256": "1c9df7432b3d35b4d534ad0412edc6c65c1df02c4a06d3abfd66afff828cda61"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch4/dip_normal_ying_kanata_v1_source_native.png",
+    "bytes": 1102649,
+    "sha256": "0a93853a36c27402bc69adb836e9b5d7280427e49c37be7be64bed1c2dc2c2e1"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch4/dip_solo_ying_v1_native.png",
+    "bytes": 905327,
+    "sha256": "9fea946469226d00333d8c20feb0c5ba7dc5372d7f7da5e8ed0669944016ef96"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch4/hand_a_normal_kanata_v1.png",
+    "bytes": 1739811,
+    "sha256": "9083b2cf77312d0157bf7ebcff0f0ea15e73a1023b1d535831a856b82bba4788"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch4/hand_a_sad_kanata_v1.png",
+    "bytes": 1732311,
+    "sha256": "93f679798c17bb48ca0e8a123c79875ba5fb3dfe014a51dfe44fc39939315e7c"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch4/hand_s_bone_ying_v1.png",
+    "bytes": 1728188,
+    "sha256": "9ebfca8b7f1dc16b617df9a393dc58b7a83415e58208f1c108c032aa4e7da655"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch4/hand_s_normal_ying_v1.png",
+    "bytes": 1603134,
+    "sha256": "ef0315d0ebf4ba07a6146b753b7f97d260ac1b62a51ad8d0f5e18ae03b6ce663"
+  },
+  {
+    "path": "assets/characters_ying_kanata/pair_batch4/hand_s_sad_ying_v1.png",
+    "bytes": 1644169,
+    "sha256": "72e3e5c56f2985e6e2e479c4d88b59fec337bc68b3e83d428ebeecc38153994a"
+  },
+  {
+    "path": "assets/characters_ying_kanata/revision_20261004/alpha_cleanup/door_pair_alpha_clean_v2.png",
+    "bytes": 565646,
+    "sha256": "df2ac522c688d5e56017f8175339020ea85b58e5c55d4c42457e484ffa024470"
+  },
+  {
+    "path": "assets/characters_ying_kanata/revision_20261004/alpha_cleanup/rain_lean_v2_alpha_clean_v1.png",
+    "bytes": 1214140,
+    "sha256": "a76efb0869c57cffab4a6e170855068a76144110c12069f442234335de2ee36a"
+  },
+  {
+    "path": "assets/characters_ying_kanata/revision_20261004/identity_swap/swapped_pair_kanata_ying_v1.png",
+    "bytes": 2524763,
+    "sha256": "78b936dd1cf818103e359e0acd60bb8773c3c6c3db612de179db4bc926abf486"
+  },
+  {
+    "path": "assets/characters_ying_kanata/revision_20261004/walk/kanata_walk_composite_v1.mp4",
+    "bytes": 10970488,
+    "sha256": "4fd49d54bdc4af950baa5eca832dc6e5663e6c0194d533bd09d425fba71f403b"
+  },
+  {
+    "path": "assets/characters_ying_kanata/running_early/running_retime27_v3.mp4",
+    "bytes": 710543,
+    "sha256": "098c597bd15155f189247cac5dd738161feb2ebfbc5fe35c3572bb0156be2998"
+  },
+  {
+    "path": "assets/characters_ying_kanata/single_batch3/book_alt_v2.png",
+    "bytes": 1710699,
+    "sha256": "427fe9866d2a7019ee9393fdac0cbd1ae6cb91e20bdf6b8524f92d95a6d33dd5"
+  },
+  {
+    "path": "assets/characters_ying_kanata/single_batch3/book_normal_v3.png",
+    "bytes": 1649593,
+    "sha256": "20100d582bf4d42561d3db69086ed6a0ee6744affeaf90db216fab3d1cbc148a"
+  },
+  {
+    "path": "assets/characters_ying_kanata/single_batch3/maid_down_v1.png",
+    "bytes": 2281646,
+    "sha256": "b792e81309ae1836a863eefafaf9a612d60ae2acdae115d06534f3a4cbe6231d"
+  },
+  {
+    "path": "assets/characters_ying_kanata/single_batch3/maid_medium_v1.png",
+    "bytes": 2333471,
+    "sha256": "0368e1f72b2b74ccf0a35cb33128659e7043ac02119e267d6c525b5ba0287c4e"
+  },
+  {
+    "path": "assets/characters_ying_kanata/single_batch3/offer_normal_v1.png",
+    "bytes": 1246933,
+    "sha256": "b92a916318bf7cd8e2cac3a6fc19ad67e21a27420b8e64c0d4c6b9e80143d8fd"
+  },
+  {
+    "path": "assets/characters_ying_kanata/single_batch3/panic_dark_v2.png",
+    "bytes": 2107156,
+    "sha256": "d2a3a523d874f247d0be701c955b0e05dfd4abb7d5dc6d65df8e01bf6177ea9e"
+  },
+  {
+    "path": "assets/characters_ying_kanata/single_batch3/panic_eyes_only_v2.png",
+    "bytes": 891506,
+    "sha256": "380bba8a31fab07bf584d076df796b27a0932dbf2dad10c73686bb595fd628f0"
+  },
+  {
+    "path": "assets/characters_ying_kanata/single_batch3/panic_normal_v2.png",
+    "bytes": 1783791,
+    "sha256": "d076f5933b0cb4ff2a706efcaf0334f412a84c0cf4caa54fa05d68f0db942022"
+  },
+  {
+    "path": "assets/characters_ying_kanata/single_batch4/maid_floor_v1.png",
+    "bytes": 2509285,
+    "sha256": "4c6fb20933799aa3029f4658ce1ea2dd5473ceeb278575908fd26133c7c50dc8"
+  },
+  {
+    "path": "assets/characters_ying_kanata/single_batch4/prone_v2_canvas.png",
+    "bytes": 901644,
+    "sha256": "87b91264d3a9f2bf3c0efb5d45f839f34e62a9f15f4c9f7eaa070641d7186f27"
+  },
+  {
+    "path": "assets/characters_ying_kanata/single_batch4/rain_passing_v1.png",
+    "bytes": 1697459,
+    "sha256": "ab477e3ea2ce72f9547d5e4497fd967b9effd32d599cbe84005f7ee3b31d2b5f"
+  },
+  {
+    "path": "assets/characters_ying_kanata/single_batch4/rain_raised_v1.png",
+    "bytes": 1482782,
+    "sha256": "97da2552abc8b351a7faf6bb956f62fbd015de08c7cd2f28bacd685f13ea999b"
+  },
+  {
+    "path": "assets/characters_ying_kanata/single_batch4/rain_sakiko_v1.png",
+    "bytes": 1527362,
+    "sha256": "b6d2b8809d8f2b40538ae2dc362d04325791bd9655b9be105c05c9dddb26acf8"
+  },
+  {
+    "path": "assets/characters_ying_kanata/single_batch4/sakiko_close_v1.png",
+    "bytes": 2200177,
+    "sha256": "4ee9699caa9017ecc3419a568c5847e46f0ca87fd2556057a982ca886f53e455"
+  },
+  {
+    "path": "assets/characters_ying_kanata/single_batch4/stand_alt_v1.png",
+    "bytes": 2008173,
+    "sha256": "b0518d31b54a3c4744fed6b66236ff3920dd80fc718ef3029e6134f48ed0a292"
+  },
+  {
+    "path": "assets/characters_ying_kanata/single_batch4/stand_v1.png",
+    "bytes": 1804284,
+    "sha256": "1077f0adeab8ecd7c262c1e29cce9dc45b800d4dfa89d7c3d320dc7f9cd6c3c9"
+  },
+  {
+    "path": "assets/characters_ying_kanata/spin_motion/spin_h3_sr_canvas_v1.mp4",
+    "bytes": 2434342,
+    "sha256": "56abd9d8e0b84b429a8516f87a83ed9676161989f21d584f06f9cd909ce8406b"
+  },
+  {
+    "path": "assets/characters_ying_kanata/stage_gap/background_kanata_v2.png",
+    "bytes": 3221863,
+    "sha256": "41b0a70010fba1407cb0240fe274cd15e52e64d45d0cf3b6208c0599fe8db1dc"
+  },
+  {
+    "path": "assets/characters_ying_kanata/tail_motion_batch/hands_seedance_v1_input56_v3.mp4",
+    "bytes": 1816376,
+    "sha256": "404e04d848e2147b04b0b7d5c4db9b5dbbe716274c667602e736bbb1cd575987"
+  },
+  {
+    "path": "assets/characters_ying_kanata/tail_motion_batch/lean_seedance_v2_input56_v3.mp4",
+    "bytes": 2410522,
+    "sha256": "1d3aa09f72593f48d3f4146774a461a62e0971680f8dfbd947be5d67f160094e"
+  },
+  {
+    "path": "assets/characters_ying_kanata/tail_motion_batch/pair_seedance_v3_input56_v1.mp4",
+    "bytes": 1932654,
+    "sha256": "f3b4d45003b6959b06e04b3976cd1c03bf25ea9b44d92fa311dd899f2df3e1f0"
+  },
+  {
+    "path": "assets/characters_ying_kanata/tail_motion_batch/whisper_aligned_v1_input56_v1.mp4",
+    "bytes": 570380,
+    "sha256": "e149d84e2beaf5d1aea366b53581077fe0f66eb5eba97ff65b4d3d9155279e65"
+  },
+  {
+    "path": "assets/characters_ying_kanata/tail_nod_batch/tail_nod_h3_sr_canvas_v1.mp4",
+    "bytes": 1313468,
+    "sha256": "8ed6f22116a2df8d91aeaa9412273636e04ce2d4068a76c1e9ef82e36ebc88cf"
+  },
+  {
+    "path": "assets/characters_ying_kanata/tail_static_batch/back_character_v1.png",
+    "bytes": 1667240,
+    "sha256": "1bba339cf8618cd368bd1b7e5b2cc605d3410a591a41ce071e53398210030d5c"
+  },
+  {
+    "path": "assets/characters_ying_kanata/tail_static_batch/choke_full_v1.png",
+    "bytes": 2136845,
+    "sha256": "bdf6e63f2f8d5d2a78fda994dab8756e1698aa0d12fb61589235e31616b73329"
+  },
+  {
+    "path": "assets/characters_ying_kanata/tail_static_batch/crowd50_v1.png",
+    "bytes": 2704185,
+    "sha256": "6eb8f2b31f8ae0ef7c0504b0ab0b4c8dff48ff2dbd462e010839e91c1b0c9419"
+  },
+  {
+    "path": "assets/characters_ying_kanata/tail_static_batch/fire_base_v1.png",
+    "bytes": 2739922,
+    "sha256": "39bb8f282f01676d004ecc1d8d58b7314ed6842926a220a49418a7d7412cae3f"
+  },
+  {
+    "path": "assets/characters_ying_kanata/ying_batch/21_ying_head_up_v1.png",
+    "bytes": 1351699,
+    "sha256": "4b5a5f6d6b454c1b8b0e69314aa2b933087b1aabc35c38d541a604fa6094c7af"
+  },
+  {
+    "path": "assets/characters_ying_kanata/ying_batch/29_ying_back_right_v1.png",
+    "bytes": 1819408,
+    "sha256": "ea68f1c1514d131d117d2de9cd9617fa1747727d052e6ec38e70e71c8f9b597a"
+  },
+  {
+    "path": "assets/characters_ying_kanata/ying_batch/31_ying_cage_shadow_v1.png",
+    "bytes": 2097444,
+    "sha256": "78952ffe9be7c0907d75fbcbdbe81bd69b7001eb38c3c5e514319432324a3dbd"
+  },
+  {
+    "path": "assets/characters_ying_kanata/ying_batch/40_ying_hood_bowed_v2.png",
+    "bytes": 1419688,
+    "sha256": "6dc0521f059f4f5ddedc559dfc75c2dd18410fa4c55a4bd5ca24f97ac3a69f4b"
+  },
+  {
+    "path": "assets/characters_ying_kanata/ying_batch/43_ying_hood_serene_v1_canvas.png",
+    "bytes": 1766031,
+    "sha256": "89bc580ff97c35d2328f86a26a3892475edf84d6f80f8810bf1fe657675b2486"
+  },
+  {
+    "path": "assets/characters_ying_kanata/ying_nod/nod_retime_27f_v2.mp4",
+    "bytes": 940175,
+    "sha256": "debe9ce0a2908fa6473376be0994de2d37e6981a39620f22cc9466c71e1d28f8"
+  },
+  {
+    "path": "assets/characters_ying_kanata/ying_prone/prone_retime_56f_v1.mp4",
+    "bytes": 2151560,
+    "sha256": "f9aa22ac1cd8f49f0e299279cd3f4b6564630c9bcb6e360e7b85ed2522044914"
+  },
+  {
+    "path": "assets/current_actions/mouth_scene.mp4",
+    "bytes": 15019921,
+    "sha256": "c22395a006cf3da214c424bc62ec885e9052eabcdfca9730821f63493cb3d27d"
+  },
+  {
+    "path": "assets/current_actions/tear_scene.mp4",
+    "bytes": 64432472,
+    "sha256": "3a3b26572a30b5b60a493c5ae5fd844292dfb1f81ba68e732a4b44ae6b065b9a"
+  },
+  {
+    "path": "assets/soundtrack.m4a",
+    "bytes": 5451225,
+    "sha256": "a1d4eb87074a84b1fa8e55e578f6a5148147188dcd6f9e8da95c085cabf7179b"
+  },
+  {
+    "path": "baseline/current_ying_kanata_v6.mp4",
+    "bytes": 335131352,
+    "sha256": "9ac3824fed19fcbccfc01f1086572c968191ad4afad309c664636ab5fcf39c6e"
+  },
+  {
+    "path": "baseline.json",
+    "bytes": 715,
+    "sha256": "68adf67ce43807dc54c08f058c18d6d05f999c35c99d7e2385f9143d815529f0"
+  },
+  {
+    "path": "manifests/closeup_v5.json",
+    "bytes": 744,
+    "sha256": "5d4e3d656ec24a3b5bd89f3bf3c694689ef03795304665ed838ca346946447d2"
+  },
+  {
+    "path": "manifests/current_actions.json",
+    "bytes": 439,
+    "sha256": "aab07de171daec609279c930db7b662fb0f7cf81b1146aeacd348585b3376dd5"
+  },
+  {
+    "path": "manifests/current_materials.json",
+    "bytes": 520,
+    "sha256": "047d188c0d900923bb9b4fc5431f18a471d0aaeb46c6f437726920cd5567b211"
+  },
+  {
+    "path": "manifests/full_rebuild_similarity.json",
+    "bytes": 424,
+    "sha256": "addb94121ee1a6774cfd857a367386a6c878f04a3b60ebf1b8e2ce80f961c652"
+  },
+  {
+    "path": "manifests/geometry.json",
+    "bytes": 3154,
+    "sha256": "1d69113b23088cd61f64146be103ff9fce0a88e6dc59c9f90b7c623e48fe4445"
+  },
+  {
+    "path": "manifests/head_v6.json",
+    "bytes": 533,
+    "sha256": "4e26d48a4cc09e1590c1492d1356a51773f34c801a4906e5d89a73d43e85bd06"
+  },
+  {
+    "path": "manifests/portable_verification.json",
+    "bytes": 962,
+    "sha256": "e8f2db9dd714f930c1990fc33e3c076d36020a46fe8841ac586fc96b51da9687"
+  },
+  {
+    "path": "manifests/shared_media.json",
+    "bytes": 3837,
+    "sha256": "0cc7019fb4f5eeb0ac7ebabbdd37d6d8a10f9789b95e669089facdd0e66e3da6"
+  },
+  {
+    "path": "manifests/verification.json",
+    "bytes": 3494,
+    "sha256": "e66c81ca8b9ce6cbe944eafa4aa6996de1999f8346c07055c6e9127bfd1494e3"
+  },
+  {
+    "path": "portable.py",
+    "bytes": 3056,
+    "sha256": "910915763e7b752b7b38b275a35fe7e4e76d3dd5d9b11254a0bb65c1a745d61c"
+  },
+  {
+    "path": "preview.html",
+    "bytes": 306,
+    "sha256": "38adc218f523239f04dc71f4fee6b98faad39cc8084e581632824442e7b02b4c"
+  },
+  {
+    "path": "project/analysis/segment_30_60/mask_lab/mask_config_v3.json",
+    "bytes": 922,
+    "sha256": "df839fbb4de1ac31cd39011c3830c116723841dbb4ca3ce81743ed755ffcd2e6"
+  },
+  {
+    "path": "project/analysis/segment_30_60/mask_lab/partwise_masks.py",
+    "bytes": 5352,
+    "sha256": "d55c063713f2a430a2b4b1299e262ac8c180597e76dc38418c6a78db5d5d7535"
+  },
+  {
+    "path": "project/analysis/segment_30_60/mask_lab/renderer_v3.py",
+    "bytes": 8752,
+    "sha256": "a7df7419d8e82a5ee2b5c0b4159dacd6550acb844a8bf14edfbb1a3698cbbc85"
+  },
+  {
+    "path": "project/analysis/segment_30_60/mask_lab/seeded_masks.py",
+    "bytes": 4497,
+    "sha256": "cf049909df504398474dceef80067b6ea13c85b0ed09812eac298bbb07059c35"
+  },
+  {
+    "path": "project/detail_fix_20261003/detail_loader.py",
+    "bytes": 8067,
+    "sha256": "dd43409facfd0168efca8d0bb1572dace33de8550d34c116a95ecabec6f27db8"
+  },
+  {
+    "path": "project/detail_fix_20261003/fixes.py",
+    "bytes": 10088,
+    "sha256": "d101dac32cd92bebb19d9a7cc702550416cd9caa89a1a0056cd005eee1cf6a80"
+  },
+  {
+    "path": "project/detail_fix_20261003/grounding_v11/assets/beach_grounded.png",
+    "bytes": 2938317,
+    "sha256": "50d9190bb56b3ad010c12e83293f5ab094f4c0c056b16e85c5f88cbbcd9b2700"
+  },
+  {
+    "path": "project/detail_fix_20261003/grounding_v11/render.py",
+    "bytes": 19108,
+    "sha256": "59d995b2d2da1a1bcb77d4b0712e3cb090e3b59796940c696db74a782957cfe5"
+  },
+  {
+    "path": "project/detail_fix_20261003/h3/whisper_v4_retiming.json",
+    "bytes": 692,
+    "sha256": "66e98b8b847cd155a8fe69aac8c338dea9c60c902302365859326be3c313bdd6"
+  },
+  {
+    "path": "project/detail_fix_20261003/measurements.json",
+    "bytes": 256215,
+    "sha256": "166319885ee29897eeba857229a8f81832cedb1045208df4731a2a950a2ddf6e"
+  },
+  {
+    "path": "project/detail_fix_20261003/render_fixes.py",
+    "bytes": 10111,
+    "sha256": "49a3a9021cfd15506eefec380d72141f717aacd971ea2b95a5d0ba9d134cc18b"
+  },
+  {
+    "path": "project/detail_fix_20261003/repair_beach_caption.py",
+    "bytes": 2358,
+    "sha256": "ebccf4fa7225bf6499106479d8cb8ee90a752f88da093be22f4af9a2ffe01670"
+  },
+  {
+    "path": "project/detail_fix_20261003/revision_v6/assets/title_clean.png",
+    "bytes": 122211,
+    "sha256": "67f33fd66cb73e7061f5baf6df808ac1ca55391bdb5a0383d54fa6c943204bc0"
+  },
+  {
+    "path": "project/detail_fix_20261003/revision_v7/revision.py",
+    "bytes": 9803,
+    "sha256": "cae808c9b3dc733c382f0fdd23b77b96e1f76ccf5fbe39b002f93ef660e81a26"
+  },
+  {
+    "path": "project/detail_fix_20261003/step1_assets_v9/assets/02_earring.png",
+    "bytes": 1203957,
+    "sha256": "4e59603951f513be967b5bb24a781ccc64f9c83156b8accfc7019c481f2ad9cf"
+  },
+  {
+    "path": "project/detail_fix_20261003/step1_assets_v9/assets/07_k1.png",
+    "bytes": 344856,
+    "sha256": "75a3d8e942497d0aba9a6d019e8354947202222df0c5b79657355b75f5c9f117"
+  },
+  {
+    "path": "project/detail_fix_20261003/step1_assets_v9/assets/24_new_beach.png",
+    "bytes": 2949484,
+    "sha256": "d31e94170fdef3225be67dc37b3e52266c1c404343ea5f607ad3e7dc3b437282"
+  },
+  {
+    "path": "project/detail_fix_20261003/step1_assets_v9/assets/gen06.png",
+    "bytes": 1109443,
+    "sha256": "b77c52ff21ed58d29bd6b8519ea9edddbb32df339b905ea4f04ac8014a2e9216"
+  },
+  {
+    "path": "project/detail_fix_20261003/step2_v10/render.py",
+    "bytes": 17042,
+    "sha256": "d0a09fcb566f7368a92690ec5f748290a825ccc3fcc41a91fc2c3bf7c7e39c8b"
+  },
+  {
+    "path": "project/detail_fix_20261003/step2_v9/render.py",
+    "bytes": 15828,
+    "sha256": "3a649ce5e329fafdbc73ab02fb5e15b2b5012eba82fcf1f3c18a37fa297bc65f"
+  },
+  {
+    "path": "project/detail_fix_20261003/subtitles_v12/render.py",
+    "bytes": 21397,
+    "sha256": "4a47b9146ed7a3653ba24920242a07a75e58f7035fadd9795761f03b4f59b1e3"
+  },
+  {
+    "path": "project/detail_fix_20261003/whisper_composite.py",
+    "bytes": 3583,
+    "sha256": "8c3a3440cdc4d56837dabf8b0f1db7c06f8905c35735635ee88ce89e2ff8e6bd"
+  },
+  {
+    "path": "project/headswap_hybrid_30_60/chairs/assets/pattern_v1.png",
+    "bytes": 3757452,
+    "sha256": "159ee20db5745c1963acc400ab6ca6682a791e1c03aaf5e128d607fdb199d008"
+  },
+  {
+    "path": "project/headswap_hybrid_30_60/encoding_v2.json",
+    "bytes": 4356,
+    "sha256": "5daf5314e5f7283eab08c31c22572f6387b5ba085bf89d7b1415affba96b3b44"
+  },
+  {
+    "path": "project/headswap_hybrid_30_60/finale/assets/dance_pair_v1.png",
+    "bytes": 8544,
+    "sha256": "abfc2706eb2791cd760d9306289ee0b60066b84aeefdb75e58b3e54be76af0f9"
+  },
+  {
+    "path": "project/headswap_hybrid_30_60/finale/assets/dance_room_v1.png",
+    "bytes": 2122269,
+    "sha256": "bc79291daf442e0f449244ea0c23a86fb4b74827fa69c3dc545d33fbabce1f5e"
+  },
+  {
+    "path": "project/headswap_hybrid_30_60/finale/assets/guests_v2.png",
+    "bytes": 1039801,
+    "sha256": "94512e66dd4b60855ecc11ac698de5bc97e1df0a70f3cb307462a2510f3f6b58"
+  },
+  {
+    "path": "project/headswap_hybrid_30_60/finale/assets/seated_pair_v1.png",
+    "bytes": 9053,
+    "sha256": "681ea0deb666502a5ed1f49e916e0836448e11abdccf84325e000c71f9acbef0"
+  },
+  {
+    "path": "project/headswap_hybrid_30_60/group/assets/pattern_v1.png",
+    "bytes": 3338685,
+    "sha256": "15c53c7f07f41efac48658d9fe0bd993c70c91f4f42c15861c01bb7f8741df11"
+  },
+  {
+    "path": "project/headswap_hybrid_30_60/mannequin/assets/pattern_v1.png",
+    "bytes": 3201783,
+    "sha256": "a23bae8024d4cb35fb2c53f253626647cee68dc5936003a585c23df15717b757"
+  },
+  {
+    "path": "project/headswap_hybrid_30_60/mannequin/output/render_metadata_v4_parts.json",
+    "bytes": 453757,
+    "sha256": "36ebfbb6653c9398d406e6c5cbed17a21e6cab21aa3a866d139631a1a3228dd0"
+  },
+  {
+    "path": "project/headswap_hybrid_30_60/mannequin/render.py",
+    "bytes": 6730,
+    "sha256": "52428c8c543caa6724ee6c7623ee0ee91bfed5bf275a6af63d98e11e6ef68493"
+  },
+  {
+    "path": "project/headswap_hybrid_30_60/render.py",
+    "bytes": 11620,
+    "sha256": "6ea075330784f1cc7e9ff2d8271c50fb6d8f1f6c8a7aa2eaad0ba3886049a0fd"
+  },
+  {
+    "path": "project/headswap_hybrid_30s/cathedral/assets/cathedral_background_v1.png",
+    "bytes": 3291342,
+    "sha256": "63e752f95edb1b8a2bbd66ea91af4de869668d7c9ae7cd10a4162e241e7814a1"
+  },
+  {
+    "path": "project/headswap_hybrid_30s/cathedral/assets/title_ja.png",
+    "bytes": 7552,
+    "sha256": "075c2b396e8b0186dcd6a15e967bf69d13721b6ac2efaf5d3c00dfd916650c65"
+  },
+  {
+    "path": "project/headswap_hybrid_30s/cathedral/camera_tracks.json",
+    "bytes": 203548,
+    "sha256": "e977666e5d8df2320eb0b065709b8f1a8d21026380cc9bdb20ae43c55fda6d13"
+  },
+  {
+    "path": "project/headswap_hybrid_30s/cathedral/push_tracks_v6.json",
+    "bytes": 2258,
+    "sha256": "d370d5c851117e0f68e41e3ad2d389feb41385ab9e9b542214d43d3187f15bab"
+  },
+  {
+    "path": "project/headswap_hybrid_30s/cathedral/renderer_v10.py",
+    "bytes": 12347,
+    "sha256": "c5459df2567c46acc21104c0104bba63b9a94e679e0b4309187c56b6a68eb124"
+  },
+  {
+    "path": "project/headswap_hybrid_30s/cathedral/shake_tracks_v7.json",
+    "bytes": 18205,
+    "sha256": "a0dd9568227fa1372b9fc540a5e84660891035a5e04570c84ac8f44194837701"
+  },
+  {
+    "path": "project/headswap_hybrid_30s/crowd/panorama.png",
+    "bytes": 7963,
+    "sha256": "bc43e1b3ce2ef3c6f96f1f609ade033362d3a61de87c32a0431a0622ac29ab77"
+  },
+  {
+    "path": "project/headswap_hybrid_30s/crowd/renderer.py",
+    "bytes": 893,
+    "sha256": "a1b87b6e8d8e062273cf498f73a1b791eb6d51aed4538f10ca984da71a7c666a"
+  },
+  {
+    "path": "project/headswap_hybrid_30s/effect_tracks.json",
+    "bytes": 6343,
+    "sha256": "4adbcee86be459ae8e3320fab6c0dc0a5dec33cf1fca8adc9f12531a9e912261"
+  },
+  {
+    "path": "project/headswap_hybrid_30s/encoding.json",
+    "bytes": 5723,
+    "sha256": "12e7f0cb22b50e97f47ea687b0cea717c2fe8c70c1555e3e96b17172ab09df22"
+  },
+  {
+    "path": "project/headswap_hybrid_30s/render.py",
+    "bytes": 7270,
+    "sha256": "d390f8994057acb7eb7724c809558e30810bfd4c1542a33ecf0c2336bef2af8c"
+  },
+  {
+    "path": "project/headswap_hybrid_30s/running/renderer.py",
+    "bytes": 4058,
+    "sha256": "6755cf7800dace61ad2ebdb874fc6ba51af5af10532b95d3aa548e888637cb3e"
+  },
+  {
+    "path": "project/headswap_hybrid_30s/running/seedance_clip.py",
+    "bytes": 824,
+    "sha256": "5fcc3096c7f7db12804d7a5dcdcaccf238170942f87ad9530497bd51f3874f92"
+  },
+  {
+    "path": "project/headswap_hybrid_30s/side/raw/background_v1.png",
+    "bytes": 2391531,
+    "sha256": "0ea057d44e11a2371ec5797ded13a54fa718c7d6c173fff7e6c16db871e912d2"
+  },
+  {
+    "path": "project/headswap_hybrid_30s/side/raw/foreground_v1.png",
+    "bytes": 8399,
+    "sha256": "699b26b7d31de058ba059d26e9bbaa31bfc7c2bebcbbf2d8729e3c46c83b8dd1"
+  },
+  {
+    "path": "project/headswap_hybrid_30s/side/renderer.py",
+    "bytes": 5287,
+    "sha256": "313b549845497d6ea877ca3b6cef2c1772ab84044f06255791b83cf46d3e2e23"
+  },
+  {
+    "path": "project/headswap_hybrid_30s/stage/raw/left_spectator_v1.png",
+    "bytes": 680128,
+    "sha256": "06fe5af507590b53b5b27dc7ae935ba5c4340b615f156027842ae7cc56377c99"
+  },
+  {
+    "path": "project/headswap_hybrid_30s/stage/raw/right_spectator_v1.png",
+    "bytes": 636949,
+    "sha256": "7d7cfd6e530bbbd0c5f0e2acb1939f366551639e9c582a1b00947796b5635dd5"
+  },
+  {
+    "path": "project/headswap_hybrid_30s/stage/renderer.py",
+    "bytes": 7258,
+    "sha256": "d86c6cf45ee0c749ae782d230f1bc7dd3290324748b8e52c214c1c4b07e1f004"
+  },
+  {
+    "path": "project/rebuild_118_147/assets/rain_handhold.png",
+    "bytes": 8757,
+    "sha256": "cb7102ef05e213526cd72ec4ceeb74c0e1620c54eb87c06296ac8fbac9c6dadc"
+  },
+  {
+    "path": "project/rebuild_118_147/backgrounds/ballroom_clean_v1.png",
+    "bytes": 3502557,
+    "sha256": "719a4be6dac484c42ae82b0e249a3da1eaecca335781f8a82efcc60b2933dcf1"
+  },
+  {
+    "path": "project/rebuild_118_147/backgrounds/ballroom_guests_pair_v1.png",
+    "bytes": 2005314,
+    "sha256": "514c8994b64dd27d1d8d7c9d84eefac6ad12c2b14bbca4845e22bb7a4afb8053"
+  },
+  {
+    "path": "project/rebuild_118_147/backgrounds/door_front_clean_v1.png",
+    "bytes": 3133803,
+    "sha256": "e10942305380771d2b5b06e40da100891e3fdbba36b4456c1030c1f7197e9ee5"
+  },
+  {
+    "path": "project/rebuild_118_147/backgrounds/door_onlookers_v2.png",
+    "bytes": 1045834,
+    "sha256": "6428f577579abb607eeee255844fe9e307d2154e62b0e454806700b5bc522de7"
+  },
+  {
+    "path": "project/rebuild_118_147/backgrounds/rain_blue_pair_v2.png",
+    "bytes": 1140837,
+    "sha256": "c9b2574deffc9f18ffbd5b1ffda1aa3c12317a0a706f490a38444700818dd118"
+  },
+  {
+    "path": "project/rebuild_118_147/backgrounds/rain_courtyard_v1.png",
+    "bytes": 2859802,
+    "sha256": "fe6b59c1f6900ea6d37ffae6a1502c78320910d4f23dfd0bb15ca216b48e6c93"
+  },
+  {
+    "path": "project/rebuild_118_147/backgrounds/rain_passers_scene1_v1.png",
+    "bytes": 876679,
+    "sha256": "8ae01ec202a832179f9d71a82668c9f35fa03b0fda3a3cf5049396dafc7682d8"
+  },
+  {
+    "path": "project/rebuild_118_147/motion_raw.json",
+    "bytes": 188597,
+    "sha256": "d779ed3b40db117c2d1bceb2f5b16bb180d63ea18f417861235c27b451e41a93"
+  },
+  {
+    "path": "project/rebuild_118_147/render_v5.py",
+    "bytes": 19062,
+    "sha256": "fb5b50a9d2f5e12d91469111b169fb2bc50173478ffdedeea828f52193b68fff"
+  },
+  {
+    "path": "project/rebuild_147_182/backgrounds/forest_back_v1.png",
+    "bytes": 3412498,
+    "sha256": "cd5cdfaf0407a58f83ea504e80aa12ba4498db7e55ceafd492e969b277830a8a"
+  },
+  {
+    "path": "project/rebuild_147_182/backgrounds/forest_front_v1.png",
+    "bytes": 1262879,
+    "sha256": "0b9f0a845a80af161d8708db251fcc01f0e5dd747557900835e3dcb67d50c4ff"
+  },
+  {
+    "path": "project/rebuild_147_182/backgrounds/ground_code_v1.png",
+    "bytes": 3604328,
+    "sha256": "4cf9b438f5005954520d8a9ec67dd1ce84d205e2574dd03261ac6a819133ad62"
+  },
+  {
+    "path": "project/rebuild_147_182/backgrounds/hall_v1.png",
+    "bytes": 3434949,
+    "sha256": "37cbd541f9e19d753b29fa82a2cdbba4f1823c697bc3b266a836942b0cc317bf"
+  },
+  {
+    "path": "project/rebuild_147_182/motion_used.json",
+    "bytes": 10434,
+    "sha256": "03e7bc6093961582008d87dd55c6edc9bc0c0c26a17f563163e9de885ef8957f"
+  },
+  {
+    "path": "project/rebuild_147_182/render.py",
+    "bytes": 12987,
+    "sha256": "7e9f1476e5e3a6158cf9c4e478ffc4ea51e5433223dbe83d67b266e2bcd30fe6"
+  },
+  {
+    "path": "project/rebuild_147_182/render_v2.py",
+    "bytes": 10120,
+    "sha256": "4d14fc0e1f91bb964092ec4b715a88aac62d4e6d70625472aa6d5e24ffa8882e"
+  },
+  {
+    "path": "project/rebuild_147_182/render_v3.py",
+    "bytes": 7027,
+    "sha256": "69b01be18951b6596497deaeb49eda63f68daf3ae74eb7882f7101d41f406153"
+  },
+  {
+    "path": "project/rebuild_147_182/render_v4.py",
+    "bytes": 3549,
+    "sha256": "20d82b3e10149771678b1d7d6918cc266f0832d9ceb0483541314af304b2f497"
+  },
+  {
+    "path": "project/rebuild_147_182/render_v5.py",
+    "bytes": 2889,
+    "sha256": "0bd6155a75c1aae793db52ea8f86777e7eda420a3f83691f3a310d8bd291c4e1"
+  },
+  {
+    "path": "project/rebuild_147_182/v2/backgrounds/book_bg.png",
+    "bytes": 3051364,
+    "sha256": "181920771120227592af970fa05b512941329ef15ae00ab7a1c3456c34123e02"
+  },
+  {
+    "path": "project/rebuild_147_182/v2/backgrounds/offer_bg.png",
+    "bytes": 3710551,
+    "sha256": "d1439be8e3d77de68caf84c5f8752aec1ca47c5536080bf63bcfcd61a12d8b98"
+  },
+  {
+    "path": "project/rebuild_147_182/v2/backgrounds/panic_bg.png",
+    "bytes": 2641295,
+    "sha256": "7f9406a3f526be5eb109bdb08caa29c2ddd091fe6c41a103862a377f36cbb284"
+  },
+  {
+    "path": "project/rebuild_182_202_agent_20261002_a/analysis/motion_raw.json",
+    "bytes": 345047,
+    "sha256": "f7ce948e12ec20e730964c57c17ac27c19b4df234ed7a5dcaa327bbcf4f9f8c9"
+  },
+  {
+    "path": "project/rebuild_182_202_agent_20261002_a/assets/crowd.png",
+    "bytes": 1295187,
+    "sha256": "d2657a732f007d94b003d9ac9831e54daf1bd0a2c138f20bed9bbf575668fb40"
+  },
+  {
+    "path": "project/rebuild_182_202_agent_20261002_a/assets/facade.png",
+    "bytes": 2787806,
+    "sha256": "7594fb871726285b6e8905cb9ae3b4be7072f16d5ebda2bfc58fff4aa230420e"
+  },
+  {
+    "path": "project/rebuild_182_202_agent_20261002_a/assets/forest_back.png",
+    "bytes": 3412498,
+    "sha256": "cd5cdfaf0407a58f83ea504e80aa12ba4498db7e55ceafd492e969b277830a8a"
+  },
+  {
+    "path": "project/rebuild_182_202_agent_20261002_a/assets/forest_front.png",
+    "bytes": 1262879,
+    "sha256": "0b9f0a845a80af161d8708db251fcc01f0e5dd747557900835e3dcb67d50c4ff"
+  },
+  {
+    "path": "project/rebuild_182_202_agent_20261002_a/assets/hand_a_bone.png",
+    "bytes": 1428802,
+    "sha256": "025e2eb7476a174d105ccda3a0bbb9d73d8cf0065634602a05bfe5b274967e8d"
+  },
+  {
+    "path": "project/rebuild_182_202_agent_20261002_a/assets_v2/dip_bone.png",
+    "bytes": 8332,
+    "sha256": "b4716e518ae0cd7aa0ad9e83fc78456ec349e515ac037a8ac838ca4ff4bb8b4e"
+  },
+  {
+    "path": "project/rebuild_182_202_agent_20261002_a/assets_v2/dip_normal.png",
+    "bytes": 8318,
+    "sha256": "7ffd22db5288257b8e17418132625fcda729b2f32746faefdd0b0fc2a348ee36"
+  },
+  {
+    "path": "project/rebuild_182_202_agent_20261002_a/render_v4.py",
+    "bytes": 16186,
+    "sha256": "2fc073235891c9e2511553d0f6448997d154d086ec67818ba27b7b0e6f4b0548"
+  },
+  {
+    "path": "project/rebuild_182_202_agent_20261002_a/scope.json",
+    "bytes": 818,
+    "sha256": "27a7edbef5f40621eda2950c65b9251dbd35ed486b0791a23e9e46e66c2cae01"
+  },
+  {
+    "path": "project/rebuild_202_end_agent_20261002_b/assets/back_background.png",
+    "bytes": 2267491,
+    "sha256": "e35acac930b0c990b55302987da6b805d02c39714a21f7faa255978331d96d2d"
+  },
+  {
+    "path": "project/rebuild_202_end_agent_20261002_b/assets/choke.png",
+    "bytes": 8322,
+    "sha256": "6273f72026fc62d2c7be54be8799cd41f871cba803e6b01843f6872cdb505cf5"
+  },
+  {
+    "path": "project/rebuild_202_end_agent_20261002_b/back_track.json",
+    "bytes": 3939,
+    "sha256": "89e06a9b43587017e9c4a0a47884307befd85ab19f3941557c0215d2edcdb07e"
+  },
+  {
+    "path": "project/rebuild_202_end_agent_20261002_b/h3/close_v2_v1.mp4",
+    "bytes": 3880,
+    "sha256": "ea62032bb600bd30d5a12252ff4f0b0a963f3d8818c380737623cf2f135d5699"
+  },
+  {
+    "path": "project/rebuild_202_end_agent_20261002_b/motion.json",
+    "bytes": 20191,
+    "sha256": "20cf7e959f9645888a76adbe7bd469d51cd632a7968b6f0bb556f0e3e4b5ec66"
+  },
+  {
+    "path": "project/rebuild_202_end_agent_20261002_b/render.py",
+    "bytes": 6270,
+    "sha256": "4779f166bac7633e160b39a62578dd92ee0fcec703dc7daad9d0ddba16d8e593"
+  },
+  {
+    "path": "project/rebuild_202_end_agent_20261002_b/render_v2.py",
+    "bytes": 4171,
+    "sha256": "241951fdf335246cbd8d5cb0cd288b294462e2227e5ee0129c26b4a10fa47244"
+  },
+  {
+    "path": "project/rebuild_202_end_agent_20261002_b/render_v3.py",
+    "bytes": 2028,
+    "sha256": "a66b31f630123e8d1254d62d08b5afe968a32616cae9d6276fe1f8c89ca88237"
+  },
+  {
+    "path": "project/rebuild_202_end_agent_20261002_b/v2/h3/whisper_result.mp4",
+    "bytes": 3880,
+    "sha256": "ea62032bb600bd30d5a12252ff4f0b0a963f3d8818c380737623cf2f135d5699"
+  },
+  {
+    "path": "project/rebuild_60_90/assets/anon_front_v1.png",
+    "bytes": 9694,
+    "sha256": "24a40c554b8e3d271b5001f8c0efff9a527209020555a148834f7b698e6c4525"
+  },
+  {
+    "path": "project/rebuild_60_90/assets/sea_v1.png",
+    "bytes": 3162375,
+    "sha256": "14ef9c650b46bb612795ac5dd5dd8e42e93eae2f80f227667de9e9ecec033c1b"
+  },
+  {
+    "path": "project/rebuild_60_90/assets/sea_wide_v1.png",
+    "bytes": 3413188,
+    "sha256": "f3126127221cdc824274b6a50cdde81419c2226a32edc41ae69d23ab1902569b"
+  },
+  {
+    "path": "project/rebuild_60_90/opening_00_05/render_v3.py",
+    "bytes": 12578,
+    "sha256": "ea680bca678705f83b493a2d0264f0e0f0767f8b05429b27e5356311a5034257"
+  },
+  {
+    "path": "project/rebuild_60_90/opening_00_05/source_motion_raw.json",
+    "bytes": 80666,
+    "sha256": "6ab20f470cd1e1385ce22ef1cc4bb242eb983cb9a3a44612dd96b97e41072524"
+  },
+  {
+    "path": "project/rebuild_60_90/render.py",
+    "bytes": 14115,
+    "sha256": "6cf2221f9b23589934004434318bf36a723f870e26dc52ae041abb955f1d2dbb"
+  },
+  {
+    "path": "project/rebuild_60_90/segment_05_21/render_sequence_v5.py",
+    "bytes": 15284,
+    "sha256": "bec1265417d7649b331071efc1430fe9e59fd091f4d6f6f79147a16a2c62ef06"
+  },
+  {
+    "path": "project/rebuild_60_90/segment_21_29/h3/tear_registration.json",
+    "bytes": 15998,
+    "sha256": "19b5c98d4539ab8b29b5686354c672011f7cbb3a622c32dfffa8d1b787fb9df1"
+  },
+  {
+    "path": "project/rebuild_60_90/segment_21_29/motion_raw.json",
+    "bytes": 85675,
+    "sha256": "08186b1b3f42248f09468e04f37ccd0192cd5f742e8ca13337459033142735ef"
+  },
+  {
+    "path": "project/rebuild_60_90/segment_21_29/registration.json",
+    "bytes": 902,
+    "sha256": "5a89965d48530868e868aff34c3119f2ef21c347af37a9bf9523b9ef5604f5dc"
+  },
+  {
+    "path": "project/rebuild_60_90/segment_21_29/render_segment_v4.py",
+    "bytes": 11817,
+    "sha256": "48ff7a20bfac7b1cda99e75932ee2f1363f221b672cdf4c5925f4d58aa07bb33"
+  },
+  {
+    "path": "project/rebuild_60_90/segment_21_29/tear_user_v4_registration.json",
+    "bytes": 234,
+    "sha256": "65f6bec8acdb017b40124d4b58aaed110c85525dce500ff688a3dd1197e9d9cb"
+  },
+  {
+    "path": "project/rebuild_60_90/standing_fix/motion.json",
+    "bytes": 22059,
+    "sha256": "85241c4829a1d4f45a15dd0993ca0cb5295ff6cbdfc124cefbe17cd9f4100be5"
+  },
+  {
+    "path": "project/rebuild_60_90/standing_fix/render.py",
+    "bytes": 3076,
+    "sha256": "5ba24e4a263e4d0154fff9332c6b67e981ef6dabca8de14039a387a1d361f57d"
+  },
+  {
+    "path": "project/rebuild_88_118/assets/back.png",
+    "bytes": 9572,
+    "sha256": "24e4f8af75eeda8cd742d1e74f5f09e2b7510e8869554be1d6c2fe6c9fefe2ff"
+  },
+  {
+    "path": "project/rebuild_88_118/assets/back_bg.png",
+    "bytes": 3593397,
+    "sha256": "8d5b7d7f8bc41c6f1b613ef30c2005a23be83225071ee660f37a2ef6966561dc"
+  },
+  {
+    "path": "project/rebuild_88_118/assets/cage_bg.png",
+    "bytes": 2945499,
+    "sha256": "1535b292c4beff4b17bcb13ea3e46e31a89ba5d038e813809a93a9d14fa5c256"
+  },
+  {
+    "path": "project/rebuild_88_118/assets/cage_maid.png",
+    "bytes": 9648,
+    "sha256": "47e9d552b36fd532b1bdc27fc5329f8a28582bfc3e4b84a88b912dbc4129c33c"
+  },
+  {
+    "path": "project/rebuild_88_118/assets/dove.png",
+    "bytes": 603823,
+    "sha256": "abd26acbe1d3672c6f18ee9c50db32b88ec44b9463c3e991be8bfbeb21e1e7c5"
+  },
+  {
+    "path": "project/rebuild_88_118/render.py",
+    "bytes": 9160,
+    "sha256": "f1c9de2f7265027aa6e2e14800ab444f083886e443e351dc999f6cc5d530bb27"
+  },
+  {
+    "path": "project/rebuild_88_118/render_v2.py",
+    "bytes": 4509,
+    "sha256": "e07c021538d4e7ce385aed6130a00043f441b6273ccc791e5a07f60d00a5284f"
+  },
+  {
+    "path": "project/rebuild_88_118/render_v3.py",
+    "bytes": 2489,
+    "sha256": "d1d4ea5d67abdfd6bc912ae658cb60f6676799cb33e4a198411736d2be4d9cdc"
+  },
+  {
+    "path": "project/rebuild_88_118/tracks.json",
+    "bytes": 92952,
+    "sha256": "4516487cf9d5a1c83c0ebe5376e0d60b914cb50e07decec3efc238c3f4232941"
+  },
+  {
+    "path": "project/rebuild_88_118/v2/camera_stable.json",
+    "bytes": 20438,
+    "sha256": "47015cf46262350e6cb25529e4acb0c62838759cf229953f8d4006280c14b67c"
+  },
+  {
+    "path": "project/rebuild_88_118/v2/mouth_registration.json",
+    "bytes": 17231,
+    "sha256": "a3a9f0f81ab7be7fc3e427fd174ea06c6048c73192642f7e497a72b4b393d80e"
+  },
+  {
+    "path": "project/rebuild_88_118/v3/assets/crowd_bg.png",
+    "bytes": 2731786,
+    "sha256": "098b8e066ebd65159d1fc5b75fa4784441d8e3ea7f9b2d45d23a4fd5f58490f5"
+  },
+  {
+    "path": "project/rebuild_88_118/v3/assets/crowd_vivid.png",
+    "bytes": 2045396,
+    "sha256": "1dbdc45a268f956ee381f49e60740cc183518c9ee40deea99da20c6e736cdac1"
+  },
+  {
+    "path": "project/render_1080p/h3_sr/replacements.json",
+    "bytes": 5595,
+    "sha256": "ea6409e53d4dcf8740959ec7d5f64a9d8981223924a02b95a72a8d781bde02d2"
+  },
+  {
+    "path": "project/render_1080p/h3_sr/segment_21_29_tear_b2207f20/upscaled.mp4",
+    "bytes": 3880,
+    "sha256": "ea62032bb600bd30d5a12252ff4f0b0a963f3d8818c380737623cf2f135d5699"
+  },
+  {
+    "path": "project/render_1080p/h3_sr/v2_mouth_h3_v2_4c6ea119/upscaled.mp4",
+    "bytes": 3880,
+    "sha256": "ea62032bb600bd30d5a12252ff4f0b0a963f3d8818c380737623cf2f135d5699"
+  },
+  {
+    "path": "project/render_1080p/h3_sr/v3_whisper_result_70b2c9fc/upscaled.mp4",
+    "bytes": 3880,
+    "sha256": "ea62032bb600bd30d5a12252ff4f0b0a963f3d8818c380737623cf2f135d5699"
+  },
+  {
+    "path": "project/render_1080p/loader.py",
+    "bytes": 7844,
+    "sha256": "39e4ac74480242b5b07a8263f391b266ea13d5b59eecde72095298620fecfbcd"
+  },
+  {
+    "path": "project/render_1080p/render.py",
+    "bytes": 7877,
+    "sha256": "5df73bb16d78ec2f0228274ccf436ec6767aa55f1ddf1456bd755b8a88de6c3f"
+  },
+  {
+    "path": "project/render_1080p/runtime.py",
+    "bytes": 17366,
+    "sha256": "548b47008d7a77dd1840c10c8af7b4d54894f82790e67a8a04db26d6e6a4fb75"
+  },
+  {
+    "path": "project/ロウワ― _ Flower -lower one's eyes P1 211111_ロウワー_youtube_440400082.mp4",
+    "bytes": 288651892,
+    "sha256": "81d1b6f8debbbaf6db9c237dcfcdabca40bad01a07490489e1136b07fd3da9a2"
+  },
+  {
+    "path": "README.md",
+    "bytes": 3206,
+    "sha256": "6108a3e02c33b5db44e1fb7fd3b64a065baaa0212812a826c37c7d3e7d9cf2d4"
+  },
+  {
+    "path": "render.py",
+    "bytes": 3128,
+    "sha256": "813c4765ffdaf37ee211689e78ab8fdbeca730a9033ecd0da0f0078292d21300"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 95,
+    "sha256": "82e35af6bd5796950ce3cb6e59023c645c048ab1b4470b7d77aedb5a608fc95e"
+  },
+  {
+    "path": "setup_local.py",
+    "bytes": 736,
+    "sha256": "9b5102d4417fb6b9cdb878d36470ee21a58074d08b40977e388393abdf3436e3"
+  },
+  {
+    "path": "skills/handdrawn-video-encoding/references/assets-and-compositing.md",
+    "bytes": 4228,
+    "sha256": "36f742136b5c22a736ee8242f991f2f28a2baf4edc8a9158538e1bd987b508d9"
+  },
+  {
+    "path": "skills/handdrawn-video-encoding/references/code-masks-and-camera.md",
+    "bytes": 6456,
+    "sha256": "ecca0c38aedceff88457908caf72d4fca6da19e0a9d3840520a6df824cbfa8ea"
+  },
+  {
+    "path": "skills/handdrawn-video-encoding/references/lessons.md",
+    "bytes": 18562,
+    "sha256": "60624ea84d0cb0ba8f7431cc3b14e51946b2c3c5045a8ad00af7e93b784f5558"
+  },
+  {
+    "path": "skills/handdrawn-video-encoding/references/shot-analysis.md",
+    "bytes": 9202,
+    "sha256": "368e527d7d11145a81e2167b0e573a1c6e1383ac23bc5d827be2a3c5ad55e0fa"
+  },
+  {
+    "path": "skills/handdrawn-video-encoding/SKILL.md",
+    "bytes": 12570,
+    "sha256": "d2e89e2cd29e209962596279a91a0e367b9f8d518010bff93f06e0206fc560c2"
+  },
+  {
+    "path": "timeline.json",
+    "bytes": 4834,
+    "sha256": "f6ff7b9a3eacd218bc7ad93f7c38dfb5fe3bfe4c1f485e38092bd9efaf56d03b"
+  },
+  {
+    "path": "verify_release.py",
+    "bytes": 410,
+    "sha256": "63430771e8eea8e8d7f571df2c18e0de55f9a727ba4254d561c7b02ab5706450"
+  },
+  {
+    "path": "worker.py",
+    "bytes": 5218,
+    "sha256": "af19f503b2a885025c752f0fc6c7b4ef51a63a62474122590f433f13f83111e4"
+  },
+  {
+    "path": "复制与开工.md",
+    "bytes": 586,
+    "sha256": "07217118833f2f398cfa4b3eedb92a4dee7a25213b3185e6a460ae701d462dfe"
+  },
+  {
+    "path": "换角色指南.md",
+    "bytes": 1224,
+    "sha256": "1a32dcdd100a366d937b8a08df8c76febde731ec1a7abe13adabfb1f2879345e"
+  },
+  {
+    "path": "独立工程验证.md",
+    "bytes": 1259,
+    "sha256": "825922644dc80e2fbed893bf7745be8207fc0f19e4f5f2311cf01c00c029c53f"
+  },
+  {
+    "path": "素材替换清单.csv",
+    "bytes": 17161,
+    "sha256": "5f4cd15c314548ba70da2f6fac6ed0526486e35e5e6dcc2d6cef5b5868b34da6"
+  }
+]

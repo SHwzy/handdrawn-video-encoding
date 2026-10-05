@@ -1,0 +1,15 @@
+/work/
+/output/
+/fonts/
+/tools/
+/runtime/
+__pycache__/
+*.pyc
+.env*
+git.json
+password.json
+*credentials*.json
+*.mp4
+*.mov
+*.mkv
+*.zip
